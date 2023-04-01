@@ -7,7 +7,7 @@ import glob
 import time
 import datetime
 
-'''
+
 def get_artistid_trackid_artistname(trackfile):
     """
     Utility function, opens a h5 file, gets the 4 following fields:
@@ -63,9 +63,9 @@ def list_all(maindir):
     # done
     return results
 
-
+"""
 def die_with_usage():
-    """ HELP MENU """
+    
     print 'list_all_artists.py'
     print '   by T. Bertin-Mahieux (2010) Columbia University'
     print ''
@@ -80,7 +80,7 @@ def die_with_usage():
     print 'artist Echo Nest ID<SEP>artist Musicbrainz ID<SEP>one track Echo Nest ID<SEP>artist name'
     sys.exit(0)
 
-
+"""
 
 if __name__ == '__main__':
 
