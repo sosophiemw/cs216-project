@@ -16,15 +16,19 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
-#plt.style.use("seaborn-whitegrid")
-#plt.rc("figure", autolayout=True)
-#plt.rc("axes", labelweight="bold", labelsize="large", titleweight="bold", titlesize=14, titlepad=10)
+# plt.style.use("seaborn-whitegrid")
+# plt.rc("figure", autolayout=True)
+# plt.rc("axes", labelweight="bold", labelsize="large", titleweight="bold", titlesize=14, titlepad=10)
 
 df = pd.read_csv('Top 100 most Streamed - Sheet1.csv')
 
 df.head()
 list1=df["artist"]
-#print(list1)
+print(list1)
+
+# +
+# #!pip install musicbrainzngs
+# -
 
 ################ Music Brainz  Data
 import requests
@@ -34,7 +38,7 @@ import musicbrainzngs as mbz
 # https://realpython.com/api-integration-in-python/
 
 
-#https://python-musicbrainzngs.readthedocs.io/en/latest/api/
+# https://python-musicbrainzngs.readthedocs.io/en/latest/api/
 
 # REST API data access 
 api_url = 'https://musicbrainz.org/ws/2/'
@@ -57,7 +61,7 @@ result = mbz.search_artists(artist="Queen", type="group",
 
 
 
-#may be better if this is a dictionary: alas... it is not
+# may be better if this is a dictionary: alas... it is not
 
 def get_placedata(name_artist, begin_area_list, country_list):
     string=name_artist
@@ -92,11 +96,12 @@ for artist in df["artist"]:
 
 # PUT These Back into Dat_Frame From Above
 
-#May want to spot check that nothing weirdly got out of order
-#If anyone wants to get fancy...
+# May want to spot check that nothing weirdly got out of order
+# If anyone wants to get fancy...
 # may be better to make a dataframe based on the artist, and then merge these frames together, rather than code below
 
 df["country"]=country_list
+print(df.head())
 df["city"]=begin_area_list
 
 
@@ -105,21 +110,3 @@ df["city"]=begin_area_list
 country_counts=df.groupby("country")["artist"].count().reset_index(name ="counts")
 country_counts=country_counts.sort_values("counts", ascending=False)
 sns.barplot(data=country_counts, x="country", y="counts", color="blue")
-
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    

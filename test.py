@@ -8,17 +8,17 @@ artist_list = mbz.search_artists(query='Queen')['artist-list']
 
 result = mbz.search_artists(ended="false", country="US")
 
-#red_sovine = artist_list[0] 
-#print(red_sovine)
+# red_sovine = artist_list[0] 
+# print(red_sovine)
 
 
-#release_list = mbz.browse_releases(artist=red_sovine['id'])['release-list']
-#print(release_list)
+# release_list = mbz.browse_releases(artist=red_sovine['id'])['release-list']
+# print(release_list)
 
-#phantom_309 = release_list[4] 
-#cover_art_b = mbz.get_image(phantom_309['id'], coverid='front', size='500')
+# phantom_309 = release_list[4] 
+# cover_art_b = mbz.get_image(phantom_309['id'], coverid='front', size='500')
 
-#print(red_sovine['life-span'])
+# print(red_sovine['life-span'])
 
 """
 # https://musicbrainz.org/doc/MusicBrainz_API

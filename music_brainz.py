@@ -9,7 +9,7 @@ import musicbrainzngs as mbz
 # https://realpython.com/api-integration-in-python/
 
 
-#https://python-musicbrainzngs.readthedocs.io/en/latest/api/
+# https://python-musicbrainzngs.readthedocs.io/en/latest/api/
 
 # REST API data access 
 api_url = 'https://musicbrainz.org/ws/2/'
@@ -22,10 +22,10 @@ req5 = api_url + 'artist'
 
 response = requests.get(req4)
 
-#print(response.text)
+# print(response.text)
 
 
-#musicbrainzngs.browse_places(area=None, includes=[], limit=None, offset=None)¶
+# musicbrainzngs.browse_places(area=None, includes=[], limit=None, offset=None)¶
 
 #Python bindings
 app = "RecordIndustry.io"
