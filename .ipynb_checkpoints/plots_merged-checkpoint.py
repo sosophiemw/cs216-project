@@ -45,7 +45,6 @@ print(df_genres_top5)
 #ax = sns.lineplot(data = df_genres_top5, x='year', y='speechiness', hues = 'genres')
 #ax = sns.lineplot(data = df_genres_top5, x='year', y='acousticness', hues = 'genres')
 ax = sns.lineplot(data = df_genres_top5, x='year', y='tempo', hue = 'genres', ci = False)
-
 for ind, label in enumerate(ax.get_xticklabels()):
     if ind % 5 == 0:  # every 5th label is kept
         label.set_visible(True)
