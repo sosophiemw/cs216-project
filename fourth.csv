@@ -1,0 +1,1001 @@
+,title,artist,peakPos,lastPos,weeks,rank,isNew,date,track_uri
+59999,Forever,Chris Brown,3,3,14,3,False,2008-08-04,spotify:track:3NZJlJemX3mzjf56MqC5ML
+60000,Disturbia,Rihanna,4,15,6,4,False,2008-08-04,spotify:track:2VOomzT6VavJOGBeySqaMc
+60001,Viva La Vida,Coldplay,1,5,12,5,False,2008-08-04,spotify:track:1mea3bSkSGXuIRvnydlB5b
+60002,A Milli,Lil Wayne,6,8,14,6,False,2008-08-04,spotify:track:6ScJMrlpiLfZUGtWp4QIVt
+60003,Lollipop,Lil Wayne Featuring Static Major,1,4,20,7,False,2008-08-04,spotify:track:4P7VFiaZb3xrXoqGwZXC3J
+60004,Dangerous,Kardinal Offishall Featuring Akon,8,9,12,8,False,2008-08-04,spotify:track:5wujBwqG7INdStqGd4tRMX
+60005,Bleeding Love,Leona Lewis,1,6,24,9,False,2008-08-04,spotify:track:7wZUrN8oemZfsEd1CGkbXE
+60006,Leavin',Jesse McCartney,10,10,14,10,False,2008-08-04,spotify:track:20ORwCJusz4KS2PbTPVNKo
+60007,Burnin' Up,Jonas Brothers,5,11,5,11,False,2008-08-04,spotify:track:2VEsmoek0sol9MnJFyoG9e
+60008,When I Grow Up,The Pussycat Dolls,9,12,9,12,False,2008-08-04,spotify:track:21pySLskKIKrhDziCX5ojQ
+60009,Pocketful Of Sunshine,Natasha Bedingfield,5,7,24,13,False,2008-08-04,spotify:track:1uigwk5hNV84zRd5YQQRTk
+60010,Closer,Ne-Yo,14,19,15,14,False,2008-08-04,spotify:track:2XbfY2O2v3xwedUJ0J2kkr
+60011,Shake It,Metro Station,10,17,17,15,False,2008-08-04,spotify:track:5619Ojc6t9evEEs3B7Drhe
+60012,American Boy,Estelle Featuring Kanye West,16,26,15,16,False,2008-08-04,spotify:track:6etwirSInfuJrSOlogS6Sh
+60013,Bust It Baby Part 2,Plies Featuring Ne-Yo,7,14,18,17,False,2008-08-04,spotify:track:4o2O6WSkkJfcKxlED7WTQY
+60014,7 Things,Miley Cyrus,9,13,8,18,False,2008-08-04,spotify:track:5ecZWU5uQOiCVSnPxBZNmT
+60015,Get Like Me,David Banner Featuring Chris Brown,18,18,12,19,False,2008-08-04,spotify:track:4O1CExxinEpKZi3861NlTK
+60016,Lolli Lolli (Pop That Body),"Three 6 Mafia Featuring Project Pat, Young D & Superpower",19,20,11,20,False,2008-08-04,spotify:track:4xWMTkwknjh8FzxNrkwLl6
+60017,I Luv Your Girl,The-Dream,20,21,14,21,False,2008-08-04,spotify:track:3wkNK8tJZ2stygNJm8RCRD
+60018,All I Want To Do,Sugarland,18,23,6,22,False,2008-08-04,spotify:track:1mJ05BN0So26a14iib85aI
+60019,It's Not My Time,3 Doors Down,17,22,23,23,False,2008-08-04,spotify:track:0uybt73QFXaLCoxuVf6fhm
+60020,Put On,Young Jeezy Featuring Kanye West,24,28,8,24,False,2008-08-04,spotify:track:2nGFzvICaeEWjIrBrL2RAx
+60021,What You Got,Colby O'Donis Featuring Akon,14,24,22,25,False,2008-08-04,spotify:track:3MldzywZOH4Uci6bq9noyJ
+60097,Whatever You Like,T.I.,1,71,3,1,False,2008-09-04,spotify:track:1IAzD1muglOxOcPbUHs70R
+60098,Disturbia,Rihanna,1,1,10,2,False,2008-09-04,spotify:track:2VOomzT6VavJOGBeySqaMc
+60099,Forever,Chris Brown,2,3,18,3,False,2008-09-04,spotify:track:3NZJlJemX3mzjf56MqC5ML
+60100,I Kissed A Girl,Katy Perry,1,4,16,4,False,2008-09-04,spotify:track:005lwxGU1tms6HGELIcUv9
+60101,Dangerous,Kardinal Offishall Featuring Akon,5,7,16,5,False,2008-09-04,spotify:track:5wujBwqG7INdStqGd4tRMX
+60102,Paper Planes,M.I.A.,5,6,6,6,False,2008-09-04,spotify:track:1ixbwbeBi5ufN4noUKmW5a
+60103,Viva La Vida,Coldplay,1,5,16,7,False,2008-09-04,spotify:track:1mea3bSkSGXuIRvnydlB5b
+60104,Closer,Ne-Yo,8,9,19,8,False,2008-09-04,spotify:track:2XbfY2O2v3xwedUJ0J2kkr
+60105,So What,P!nk,9,0,1,9,True,2008-09-04,spotify:track:0JiY190vktuhSGN6aqJdrt
+60106,Take A Bow,Rihanna,1,8,20,10,False,2008-09-04,spotify:track:3goSVuTt3fDYDP6kRnFwuL
+60107,When I Grow Up,The Pussycat Dolls,9,15,13,11,False,2008-09-04,spotify:track:21pySLskKIKrhDziCX5ojQ
+60108,Put On,Young Jeezy Featuring Kanye West,12,13,12,12,False,2008-09-04,spotify:track:2nGFzvICaeEWjIrBrL2RAx
+60109,A Milli,Lil Wayne,6,12,18,13,False,2008-09-04,spotify:track:6ScJMrlpiLfZUGtWp4QIVt
+60110,Leavin',Jesse McCartney,10,14,18,14,False,2008-09-04,spotify:track:20ORwCJusz4KS2PbTPVNKo
+60111,Crush,David Archuleta,2,2,2,15,False,2008-09-04,spotify:track:4wCD0qOFNRu1Q6O3N6ycm4
+60112,Get Like Me,David Banner Featuring Chris Brown,16,17,16,16,False,2008-09-04,spotify:track:4O1CExxinEpKZi3861NlTK
+60113,One Step At A Time,Jordin Sparks,17,21,9,17,False,2008-09-04,spotify:track:5o4W6yWSJD9e9Ea8YC9WjF
+60114,Got Money,Lil Wayne Featuring T-Pain,13,19,13,18,False,2008-09-04,spotify:track:6YYd5MLpu45J0uLrMdivF7
+60115,All Summer Long,Hit Masters,19,65,2,19,False,2008-09-04,spotify:track:2QE57N7D5SP8uEdxWt0zV7
+60116,Bleeding Love,Leona Lewis,1,18,28,20,False,2008-09-04,spotify:track:7wZUrN8oemZfsEd1CGkbXE
+60117,Burnin' Up,Jonas Brothers,5,20,9,21,False,2008-09-04,spotify:track:2VEsmoek0sol9MnJFyoG9e
+60118,Can't Believe It,T-Pain Featuring Lil Wayne,22,30,4,22,False,2008-09-04,spotify:track:5MM6iTvhrHg3OwaFkpXwVs
+60119,In The Ayer,Flo Rida Featuring will.i.am,23,24,10,23,False,2008-09-04,spotify:track:6RpiAj9Ofv0Uqp6n2OuRoh
+60120,I'm Yours,Jason Mraz,24,32,19,24,False,2008-09-04,spotify:track:5smPViFYtztTo7ww9gJXpD
+60121,All Summer Long,Kid Rock,25,25,8,25,False,2008-09-04,spotify:track:5rX6C5QVvvZB7XckETNych
+60197,Whatever You Like,T.I.,1,2,7,1,False,2008-10-04,spotify:track:1IAzD1muglOxOcPbUHs70R
+60198,So What,P!nk,1,1,5,2,False,2008-10-04,spotify:track:0JiY190vktuhSGN6aqJdrt
+60199,Love Lockdown,Kanye West,3,0,1,3,True,2008-10-04,spotify:track:1kxeWHF9PrCVZHvVskv8lg
+60200,Disturbia,Rihanna,1,3,14,4,False,2008-10-04,spotify:track:2VOomzT6VavJOGBeySqaMc
+60201,Love Story,Taylor Swift,5,16,2,5,False,2008-10-04,spotify:track:1eQpzJW0swYMnET7UYnWA6
+60202,Paper Planes,M.I.A.,4,4,10,6,False,2008-10-04,spotify:track:1ixbwbeBi5ufN4noUKmW5a
+60203,Closer,Ne-Yo,7,7,23,7,False,2008-10-04,spotify:track:2XbfY2O2v3xwedUJ0J2kkr
+60204,Can't Believe It,T-Pain Featuring Lil Wayne,8,8,8,8,False,2008-10-04,spotify:track:5MM6iTvhrHg3OwaFkpXwVs
+60205,Hot N Cold,Katy Perry,9,12,8,9,False,2008-10-04,spotify:track:1y4eb6hmAvsqlDOl3fx9kk
+60206,American Boy,Estelle Featuring Kanye West,9,9,23,10,False,2008-10-04,spotify:track:6etwirSInfuJrSOlogS6Sh
+60207,Forever,Chris Brown,2,6,22,11,False,2008-10-04,spotify:track:3NZJlJemX3mzjf56MqC5ML
+60208,Got Money,Lil Wayne Featuring T-Pain,10,10,17,12,False,2008-10-04,spotify:track:6YYd5MLpu45J0uLrMdivF7
+60209,I'm Yours,Jason Mraz,6,13,23,13,False,2008-10-04,spotify:track:5smPViFYtztTo7ww9gJXpD
+60210,Miss Independent,Ne-Yo,14,20,5,14,False,2008-10-04,spotify:track:34ceTg8ChN5HjrqiIYCn9Q
+60211,Crush,David Archuleta,2,32,6,15,False,2008-10-04,spotify:track:4wCD0qOFNRu1Q6O3N6ycm4
+60212,Viva La Vida,Coldplay,1,14,20,16,False,2008-10-04,spotify:track:1mea3bSkSGXuIRvnydlB5b
+60213,Dangerous,Kardinal Offishall Featuring Akon,5,11,20,17,False,2008-10-04,spotify:track:5wujBwqG7INdStqGd4tRMX
+60214,Better In Time,Leona Lewis,18,18,11,18,False,2008-10-04,spotify:track:2iXBZ32Fz5VDCLeE0JIdX5
+60215,One Step At A Time,Jordin Sparks,17,17,13,19,False,2008-10-04,spotify:track:5o4W6yWSJD9e9Ea8YC9WjF
+60216,In The Ayer,Flo Rida Featuring will.i.am,9,15,14,20,False,2008-10-04,spotify:track:6RpiAj9Ofv0Uqp6n2OuRoh
+60217,Let It Rock,Kevin Rudolf Featuring Lil Wayne,21,33,4,21,False,2008-10-04,spotify:track:6TrNRd98WksT9Kkmx9uj6R
+60218,Swagga Like Us,Jay-Z & T.I. Featuring Kanye West & Lil Wayne,5,5,2,22,False,2008-10-04,spotify:track:6N6bpwA4iiq7HtKToeVH0c
+60219,Fall For You,Secondhand Serenade,21,23,15,23,False,2008-10-04,spotify:track:2fywBLXK9GQi8YR8C8d3c4
+60220,Mrs. Officer,Lil Wayne Featuring Bobby Valentino & Kidd Kidd,24,34,5,24,False,2008-10-04,spotify:track:0EHR9OObFtjlhQB8wSt1m7
+60221,My Life,The Game Featuring Lil Wayne,21,29,7,25,False,2008-10-04,spotify:track:4KW1lqgSr8TKrvBII0Brf8
+60297,Whatever You Like,T.I.,1,1,12,1,False,2008-11-04,spotify:track:1IAzD1muglOxOcPbUHs70R
+60298,Live Your Life,T.I. Featuring Rihanna,1,2,5,2,False,2008-11-04,spotify:track:3jlbL2OTD5YmIunYzgQTAN
+60299,If I Were A Boy,Beyonce,3,68,3,3,False,2008-11-04,spotify:track:26NX1wPt1TRCH536yocd6i
+60300,So What,P!nk,1,3,10,4,False,2008-11-04,spotify:track:0JiY190vktuhSGN6aqJdrt
+60301,Womanizer,Britney Spears,1,4,4,5,False,2008-11-04,spotify:track:4fixebDZAVToLbUCuEloa2
+60302,Hot N Cold,Katy Perry,5,5,13,6,False,2008-11-04,spotify:track:1y4eb6hmAvsqlDOl3fx9kk
+60303,Let It Rock,Kevin Rudolf Featuring Lil Wayne,5,7,9,7,False,2008-11-04,spotify:track:6TrNRd98WksT9Kkmx9uj6R
+60304,Miss Independent,Ne-Yo,8,8,10,8,False,2008-11-04,spotify:track:34ceTg8ChN5HjrqiIYCn9Q
+60305,Disturbia,Rihanna,1,6,19,9,False,2008-11-04,spotify:track:2VOomzT6VavJOGBeySqaMc
+60306,I'm Yours,Jason Mraz,6,13,28,10,False,2008-11-04,spotify:track:5smPViFYtztTo7ww9gJXpD
+60307,Can't Believe It,T-Pain Featuring Lil Wayne,7,10,13,11,False,2008-11-04,spotify:track:5MM6iTvhrHg3OwaFkpXwVs
+60308,Love Lockdown,Kanye West,3,12,6,12,False,2008-11-04,spotify:track:1kxeWHF9PrCVZHvVskv8lg
+60309,Better In Time,Leona Lewis,11,11,16,13,False,2008-11-04,spotify:track:2iXBZ32Fz5VDCLeE0JIdX5
+60310,Right Now (Na Na Na),Akon,14,19,5,14,False,2008-11-04,spotify:track:1ARJhjuI6TNYZCxYygFQ4F
+60311,Love Story,Taylor Swift,5,14,7,15,False,2008-11-04,spotify:track:1eQpzJW0swYMnET7UYnWA6
+60312,Mrs. Officer,Lil Wayne Featuring Bobby Valentino & Kidd Kidd,16,18,10,16,False,2008-11-04,spotify:track:0EHR9OObFtjlhQB8wSt1m7
+60313,Paper Planes,M.I.A.,4,15,15,17,False,2008-11-04,spotify:track:1ixbwbeBi5ufN4noUKmW5a
+60314,Closer,Ne-Yo,7,16,28,18,False,2008-11-04,spotify:track:2XbfY2O2v3xwedUJ0J2kkr
+60315,Gotta Be Somebody,Nickelback,10,17,4,19,False,2008-11-04,spotify:track:06T10fEzN8ZCcqzQZYA184
+60316,Crush,David Archuleta,2,21,11,20,False,2008-11-04,spotify:track:4wCD0qOFNRu1Q6O3N6ycm4
+60317,My Life,The Game Featuring Lil Wayne,21,22,12,21,False,2008-11-04,spotify:track:4KW1lqgSr8TKrvBII0Brf8
+60318,Viva La Vida,Coldplay,1,25,25,22,False,2008-11-04,spotify:track:1mea3bSkSGXuIRvnydlB5b
+60319,Got Money,Lil Wayne Featuring T-Pain,10,23,22,23,False,2008-11-04,spotify:track:6YYd5MLpu45J0uLrMdivF7
+60320,Spotlight,Jennifer Hudson,24,28,14,24,False,2008-11-04,spotify:track:02QQXgeAghpU4smdM7l7We
+60321,Fall For You,Secondhand Serenade,21,24,20,25,False,2008-11-04,spotify:track:2fywBLXK9GQi8YR8C8d3c4
+60397,Live Your Life,T.I. Featuring Rihanna,1,1,9,1,False,2008-12-04,spotify:track:3jlbL2OTD5YmIunYzgQTAN
+60398,Single Ladies (Put A Ring On It),Beyonce,2,28,6,2,False,2008-12-04,spotify:track:2ZBNclC5wm4GtiWaeh0DMx
+60399,If I Were A Boy,Beyonce,3,3,7,3,False,2008-12-04,spotify:track:26NX1wPt1TRCH536yocd6i
+60400,Whatever You Like,T.I.,1,2,16,4,False,2008-12-04,spotify:track:1IAzD1muglOxOcPbUHs70R
+60401,Hot N Cold,Katy Perry,3,4,17,5,False,2008-12-04,spotify:track:1y4eb6hmAvsqlDOl3fx9kk
+60402,Love Lockdown,Kanye West,3,9,10,6,False,2008-12-04,spotify:track:1kxeWHF9PrCVZHvVskv8lg
+60403,Just Dance,Lady Gaga Featuring Colby O'Donis,7,16,16,7,False,2008-12-04,spotify:track:2x7MyWybabEz6Y6wvHuwGE
+60404,So What,P!nk,1,5,14,8,False,2008-12-04,spotify:track:0JiY190vktuhSGN6aqJdrt
+60405,Miss Independent,Ne-Yo,8,11,14,9,False,2008-12-04,spotify:track:34ceTg8ChN5HjrqiIYCn9Q
+60406,Right Now (Na Na Na),Akon,8,8,9,10,False,2008-12-04,spotify:track:1ARJhjuI6TNYZCxYygFQ4F
+60407,Let It Rock,Kevin Rudolf Featuring Lil Wayne,5,6,13,11,False,2008-12-04,spotify:track:6TrNRd98WksT9Kkmx9uj6R
+60408,Womanizer,Britney Spears,1,7,8,12,False,2008-12-04,spotify:track:4fixebDZAVToLbUCuEloa2
+60409,I'm Yours,Jason Mraz,6,10,32,13,False,2008-12-04,spotify:track:5smPViFYtztTo7ww9gJXpD
+60410,Love Story,Taylor Swift,5,18,11,14,False,2008-12-04,spotify:track:1eQpzJW0swYMnET7UYnWA6
+60411,Can't Believe It,T-Pain Featuring Lil Wayne,7,14,17,15,False,2008-12-04,spotify:track:5MM6iTvhrHg3OwaFkpXwVs
+60412,Mrs. Officer,Lil Wayne Featuring Bobby Valentino & Kidd Kidd,16,19,14,16,False,2008-12-04,spotify:track:0EHR9OObFtjlhQB8wSt1m7
+60413,Disturbia,Rihanna,1,15,23,17,False,2008-12-04,spotify:track:2VOomzT6VavJOGBeySqaMc
+60414,Better In Time,Leona Lewis,11,17,20,18,False,2008-12-04,spotify:track:2iXBZ32Fz5VDCLeE0JIdX5
+60415,Gotta Be Somebody,Nickelback,10,20,8,19,False,2008-12-04,spotify:track:06T10fEzN8ZCcqzQZYA184
+60416,Chicken Fried,Zac Brown Band,20,22,10,20,False,2008-12-04,spotify:track:0LQtEJt7x0s6knb6RKdRYc
+60417,Heartless,Kanye West,4,12,3,21,False,2008-12-04,spotify:track:4EWCNWgDS8707fNSZ1oaA5
+60418,Addicted,Saving Abel,20,23,24,22,False,2008-12-04,spotify:track:3pxCXv0NACYfYnLjFcQW5D
+60419,Crush,David Archuleta,2,21,15,23,False,2008-12-04,spotify:track:4wCD0qOFNRu1Q6O3N6ycm4
+60420,Green Light,John Legend Featuring Andre 3000,24,31,12,24,False,2008-12-04,spotify:track:6ie2Bw3xLj2JcGowOlcMhb
+60421,Spotlight,Jennifer Hudson,24,27,18,25,False,2008-12-04,spotify:track:02QQXgeAghpU4smdM7l7We
+60497,Single Ladies (Put A Ring On It),Beyonce,1,1,11,1,False,2009-01-04,spotify:track:2ZBNclC5wm4GtiWaeh0DMx
+60498,Just Dance,Lady Gaga Featuring Colby O'Donis,2,3,21,2,False,2009-01-04,spotify:track:2x7MyWybabEz6Y6wvHuwGE
+60499,Live Your Life,T.I. Featuring Rihanna,1,2,14,3,False,2009-01-04,spotify:track:3jlbL2OTD5YmIunYzgQTAN
+60500,Heartless,Kanye West,4,4,8,4,False,2009-01-04,spotify:track:4EWCNWgDS8707fNSZ1oaA5
+60501,Love Story,Taylor Swift,5,7,16,5,False,2009-01-04,spotify:track:1eQpzJW0swYMnET7UYnWA6
+60502,Hot N Cold,Katy Perry,3,6,22,6,False,2009-01-04,spotify:track:1y4eb6hmAvsqlDOl3fx9kk
+60503,Womanizer,Britney Spears,1,5,13,7,False,2009-01-04,spotify:track:4fixebDZAVToLbUCuEloa2
+60504,Love Lockdown,Kanye West,3,8,15,8,False,2009-01-04,spotify:track:1kxeWHF9PrCVZHvVskv8lg
+60505,Whatever You Like,T.I.,1,9,21,9,False,2009-01-04,spotify:track:1IAzD1muglOxOcPbUHs70R
+60506,If I Were A Boy,Beyonce,3,10,12,10,False,2009-01-04,spotify:track:26NX1wPt1TRCH536yocd6i
+60507,Circus,Britney Spears,3,11,4,11,False,2009-01-04,spotify:track:7jk7gqyEonmVVYahZN5zhW
+60508,I'm Yours,Jason Mraz,6,12,37,12,False,2009-01-04,spotify:track:5smPViFYtztTo7ww9gJXpD
+60509,Right Now (Na Na Na),Akon,8,15,14,13,False,2009-01-04,spotify:track:1ARJhjuI6TNYZCxYygFQ4F
+60510,So What,P!nk,1,16,19,14,False,2009-01-04,spotify:track:0JiY190vktuhSGN6aqJdrt
+60511,Let It Rock,Kevin Rudolf Featuring Lil Wayne,5,13,18,15,False,2009-01-04,spotify:track:6TrNRd98WksT9Kkmx9uj6R
+60512,Gotta Be Somebody,Nickelback,10,17,13,16,False,2009-01-04,spotify:track:06T10fEzN8ZCcqzQZYA184
+60513,Miss Independent,Ne-Yo,7,14,19,17,False,2009-01-04,spotify:track:34ceTg8ChN5HjrqiIYCn9Q
+60514,Gives You Hell,The All-American Rejects,18,19,7,18,False,2009-01-04,spotify:track:6ihL9TjfRjadfEePzXXyVF
+60515,Disturbia,Rihanna,1,23,28,19,False,2009-01-04,spotify:track:2VOomzT6VavJOGBeySqaMc
+60516,Rehab,Rihanna,18,18,8,20,False,2009-01-04,spotify:track:5X3ahLXhOw16BR09GjYPUT
+60517,I Hate This Part,The Pussycat Dolls,21,32,5,21,False,2009-01-04,spotify:track:3tSuRiNgJmMqmYR23dCqnR
+60518,Chicken Fried,Zac Brown Band,20,20,15,22,False,2009-01-04,spotify:track:0LQtEJt7x0s6knb6RKdRYc
+60519,Mrs. Officer,Lil Wayne Featuring Bobby Valentino & Kidd Kidd,16,21,19,23,False,2009-01-04,spotify:track:0EHR9OObFtjlhQB8wSt1m7
+60520,Addicted,Saving Abel,20,26,29,24,False,2009-01-04,spotify:track:3pxCXv0NACYfYnLjFcQW5D
+60521,Can't Believe It,T-Pain Featuring Lil Wayne,7,27,22,25,False,2009-01-04,spotify:track:5MM6iTvhrHg3OwaFkpXwVs
+60597,My Life Would Suck Without You,Kelly Clarkson,1,97,2,1,False,2009-02-04,spotify:track:4Dm32oO01YpIubCHaAtKkN
+60598,Just Dance,Lady Gaga Featuring Colby O'Donis,1,1,25,2,False,2009-02-04,spotify:track:2x7MyWybabEz6Y6wvHuwGE
+60599,Single Ladies (Put A Ring On It),Beyonce,1,2,15,3,False,2009-02-04,spotify:track:2ZBNclC5wm4GtiWaeh0DMx
+60600,Heartless,Kanye West,3,3,12,4,False,2009-02-04,spotify:track:4EWCNWgDS8707fNSZ1oaA5
+60601,Love Story,Taylor Swift,4,5,20,5,False,2009-02-04,spotify:track:1eQpzJW0swYMnET7UYnWA6
+60602,Gives You Hell,The All-American Rejects,6,6,11,6,False,2009-02-04,spotify:track:6ihL9TjfRjadfEePzXXyVF
+60603,Live Your Life,T.I. Featuring Rihanna,1,4,18,7,False,2009-02-04,spotify:track:3jlbL2OTD5YmIunYzgQTAN
+60604,You Found Me,The Fray,8,16,10,8,False,2009-02-04,spotify:track:4IoYz8XqqdowINzfRrFnhi
+60605,Circus,Britney Spears,3,10,8,9,False,2009-02-04,spotify:track:7jk7gqyEonmVVYahZN5zhW
+60606,I'm Yours,Jason Mraz,6,7,41,10,False,2009-02-04,spotify:track:5smPViFYtztTo7ww9gJXpD
+60607,I Hate This Part,The Pussycat Dolls,11,11,9,11,False,2009-02-04,spotify:track:3tSuRiNgJmMqmYR23dCqnR
+60608,Let It Rock,Kevin Rudolf Featuring Lil Wayne,5,9,22,12,False,2009-02-04,spotify:track:6TrNRd98WksT9Kkmx9uj6R
+60609,Hot N Cold,Katy Perry,3,8,26,13,False,2009-02-04,spotify:track:1y4eb6hmAvsqlDOl3fx9kk
+60610,Dead And Gone,T.I. Featuring Justin Timberlake,14,18,8,14,False,2009-02-04,spotify:track:7IhsLJMqdxoo7YAZjaSMru
+60611,Womanizer,Britney Spears,1,12,17,15,False,2009-02-04,spotify:track:4fixebDZAVToLbUCuEloa2
+60612,Sober,P!nk,16,20,9,16,False,2009-02-04,spotify:track:733ncRLzZQT5UtSPg1QmPc
+60613,Untouched,The Veronicas,17,22,9,17,False,2009-02-04,spotify:track:0KlahhzNb98zyN83Vwae0l
+60614,Whatever You Like,T.I.,1,14,25,18,False,2009-02-04,spotify:track:1IAzD1muglOxOcPbUHs70R
+60615,Mad,Ne-Yo,19,25,8,19,False,2009-02-04,spotify:track:6xjeGpyq1b9cb9po7dvzIV
+60616,Gotta Be Somebody,Nickelback,10,17,17,20,False,2009-02-04,spotify:track:06T10fEzN8ZCcqzQZYA184
+60617,Love Lockdown,Kanye West,3,13,19,21,False,2009-02-04,spotify:track:1kxeWHF9PrCVZHvVskv8lg
+60618,Right Now (Na Na Na),Akon,8,15,18,22,False,2009-02-04,spotify:track:1ARJhjuI6TNYZCxYygFQ4F
+60619,So What,P!nk,1,19,23,23,False,2009-02-04,spotify:track:0JiY190vktuhSGN6aqJdrt
+60620,Pop Champagne,Jim Jones & Ron Browz Featuring Juelz Santana,22,24,15,24,False,2009-02-04,spotify:track:2QcXPFQwqvyf3z2iOSbiXJ
+60621,Miss Independent,Ne-Yo,7,21,23,25,False,2009-02-04,spotify:track:34ceTg8ChN5HjrqiIYCn9Q
+60697,Right Round,Flo Rida,1,1,4,1,False,2009-03-04,spotify:track:3GpbwCm3YxiWDvy29Uo3vP
+60698,Dead And Gone,T.I. Featuring Justin Timberlake,2,2,12,2,False,2009-03-04,spotify:track:7IhsLJMqdxoo7YAZjaSMru
+60699,Heartless,Kanye West,2,4,16,3,False,2009-03-04,spotify:track:4EWCNWgDS8707fNSZ1oaA5
+60700,Gives You Hell,The All-American Rejects,4,6,15,4,False,2009-03-04,spotify:track:6ihL9TjfRjadfEePzXXyVF
+60701,Crack A Bottle,"Eminem, Dr. Dre & 50 Cent",1,3,6,5,False,2009-03-04,spotify:track:0ltIb83VBPvnGDKg7axXej
+60702,Poker Face,Lady Gaga,6,10,10,6,False,2009-03-04,spotify:track:5R8dQOPq8haW94K7mgERlO
+60703,Just Dance,Lady Gaga Featuring Colby O'Donis,1,5,29,7,False,2009-03-04,spotify:track:2x7MyWybabEz6Y6wvHuwGE
+60704,Love Story,Taylor Swift,4,7,24,8,False,2009-03-04,spotify:track:1eQpzJW0swYMnET7UYnWA6
+60705,Kiss Me Thru The Phone,Soulja Boy Tell 'em Featuring Sammie,9,17,9,9,False,2009-03-04,spotify:track:2q4rjDy9WhaN3o9MvDbO21
+60706,My Life Would Suck Without You,Kelly Clarkson,1,8,6,10,False,2009-03-04,spotify:track:4Dm32oO01YpIubCHaAtKkN
+60707,Single Ladies (Put A Ring On It),Beyonce,1,9,19,11,False,2009-03-04,spotify:track:2ZBNclC5wm4GtiWaeh0DMx
+60708,You Found Me,The Fray,7,11,14,12,False,2009-03-04,spotify:track:4IoYz8XqqdowINzfRrFnhi
+60709,Mad,Ne-Yo,13,14,12,13,False,2009-03-04,spotify:track:6xjeGpyq1b9cb9po7dvzIV
+60710,Circus,Britney Spears,3,12,12,14,False,2009-03-04,spotify:track:7jk7gqyEonmVVYahZN5zhW
+60711,Sober,P!nk,15,18,13,15,False,2009-03-04,spotify:track:733ncRLzZQT5UtSPg1QmPc
+60712,I'm Yours,Jason Mraz,6,15,45,16,False,2009-03-04,spotify:track:5smPViFYtztTo7ww9gJXpD
+60713,Blame It,Jamie Foxx Featuring T-Pain,17,26,6,17,False,2009-03-04,spotify:track:2Kbw7W6OhWYOI1NfRYH5XQ
+60714,Turnin Me On,Keri Hilson Featuring Lil Wayne,18,23,10,18,False,2009-03-04,spotify:track:02Df1JGm5Sjh2GmRAl5ClR
+60715,Diva,Beyonce,19,24,10,19,False,2009-03-04,spotify:track:5Ssv6DaKrW0HczVqx6zXdl
+60716,Beautiful,Akon Featuring Colby O'Donis & Kardinal Offishall,19,25,12,20,False,2009-03-04,spotify:track:2rxQMGVafnNaRaXlRMWPde
+60717,Live Your Life,T.I. Featuring Rihanna,1,16,22,21,False,2009-03-04,spotify:track:3jlbL2OTD5YmIunYzgQTAN
+60718,Let It Rock,Kevin Rudolf Featuring Lil Wayne,5,19,26,22,False,2009-03-04,spotify:track:6TrNRd98WksT9Kkmx9uj6R
+60719,I Hate This Part,The Pussycat Dolls,11,22,13,23,False,2009-03-04,spotify:track:3tSuRiNgJmMqmYR23dCqnR
+60720,Hot N Cold,Katy Perry,3,20,30,24,False,2009-03-04,spotify:track:1y4eb6hmAvsqlDOl3fx9kk
+60721,Viva La Vida,Coldplay,1,13,42,25,False,2009-03-04,spotify:track:1mea3bSkSGXuIRvnydlB5b
+60797,Right Round,Flo Rida,1,1,8,1,False,2009-04-04,spotify:track:3GpbwCm3YxiWDvy29Uo3vP
+60798,Poker Face,Lady Gaga,2,3,14,2,False,2009-04-04,spotify:track:5R8dQOPq8haW94K7mgERlO
+60799,Kiss Me Thru The Phone,Soulja Boy Tell 'em Featuring Sammie,3,4,13,3,False,2009-04-04,spotify:track:2q4rjDy9WhaN3o9MvDbO21
+60800,Dead And Gone,T.I. Featuring Justin Timberlake,2,2,16,4,False,2009-04-04,spotify:track:7IhsLJMqdxoo7YAZjaSMru
+60801,Gives You Hell,The All-American Rejects,4,6,19,5,False,2009-04-04,spotify:track:6ihL9TjfRjadfEePzXXyVF
+60802,My Life Would Suck Without You,Kelly Clarkson,1,5,10,6,False,2009-04-04,spotify:track:4Dm32oO01YpIubCHaAtKkN
+60803,Blame It,Jamie Foxx Featuring T-Pain,7,8,10,7,False,2009-04-04,spotify:track:2Kbw7W6OhWYOI1NfRYH5XQ
+60804,Heartless,Kanye West,2,7,20,8,False,2009-04-04,spotify:track:4EWCNWgDS8707fNSZ1oaA5
+60805,I Told You So,Carrie Underwood Featuring Randy Travis,9,57,6,9,False,2009-04-04,spotify:track:6xxXrNJnnsQNLdgNk8S4y8
+60806,Just Dance,Lady Gaga Featuring Colby O'Donis,1,10,33,10,False,2009-04-04,spotify:track:2x7MyWybabEz6Y6wvHuwGE
+60807,The Climb,Miley Cyrus,6,9,3,11,False,2009-04-04,spotify:track:0V8FYVlBFuXXTIvRnMbZyS
+60808,Mad,Ne-Yo,11,12,16,12,False,2009-04-04,spotify:track:6xjeGpyq1b9cb9po7dvzIV
+60809,Love Story,Taylor Swift,4,13,28,13,False,2009-04-04,spotify:track:1eQpzJW0swYMnET7UYnWA6
+60810,I Love College,Asher Roth,14,17,6,14,False,2009-04-04,spotify:track:1akgiRM3mN2nxu2AX6ACCW
+60811,Turnin Me On,Keri Hilson Featuring Lil Wayne,15,15,14,15,False,2009-04-04,spotify:track:02Df1JGm5Sjh2GmRAl5ClR
+60812,You Found Me,The Fray,7,16,18,16,False,2009-04-04,spotify:track:4IoYz8XqqdowINzfRrFnhi
+60813,Circus,Britney Spears,3,14,16,17,False,2009-04-04,spotify:track:7jk7gqyEonmVVYahZN5zhW
+60814,Day 'N' Nite,Kid Cudi,18,23,10,18,False,2009-04-04,spotify:track:5wfllwdjglyQislkskYLBv
+60815,Sober,P!nk,15,20,17,19,False,2009-04-04,spotify:track:733ncRLzZQT5UtSPg1QmPc
+60816,Beautiful,Akon Featuring Colby O'Donis & Kardinal Offishall,19,19,16,20,False,2009-04-04,spotify:track:2rxQMGVafnNaRaXlRMWPde
+60817,Here Comes Goodbye,Rascal Flatts,11,11,4,21,False,2009-04-04,spotify:track:4lhajjgcICdfhRkvWj9Tud
+60818,Crack A Bottle,"Eminem, Dr. Dre & 50 Cent",1,18,10,22,False,2009-04-04,spotify:track:0ltIb83VBPvnGDKg7axXej
+60819,Rockin' That Thang,The-Dream,22,22,13,23,False,2009-04-04,spotify:track:3oJJ1dQBxiFYGMQSe2SluG
+60820,I'm Yours,Jason Mraz,6,25,49,24,False,2009-04-04,spotify:track:5smPViFYtztTo7ww9gJXpD
+60821,Sugar,Flo Rida Featuring Wynter,25,0,1,25,True,2009-04-04,spotify:track:6UelLqGlWMcVH1E5c4H7lY
+60897,Boom Boom Pow,The Black Eyed Peas,1,1,7,1,False,2009-05-04,spotify:track:5SAxxJbB2C9NgxHjTWvsk1
+60898,Poker Face,Lady Gaga,1,2,19,2,False,2009-05-04,spotify:track:5R8dQOPq8haW94K7mgERlO
+60899,Day 'N' Nite,Kid Cudi,3,6,15,3,False,2009-05-04,spotify:track:5wfllwdjglyQislkskYLBv
+60900,Blame It,Jamie Foxx Featuring T-Pain,4,7,15,4,False,2009-05-04,spotify:track:2Kbw7W6OhWYOI1NfRYH5XQ
+60901,Right Round,Flo Rida,1,3,13,5,False,2009-05-04,spotify:track:3GpbwCm3YxiWDvy29Uo3vP
+60902,Kiss Me Thru The Phone,Soulja Boy Tell 'em Featuring Sammie,3,5,18,6,False,2009-05-04,spotify:track:2q4rjDy9WhaN3o9MvDbO21
+60903,Sugar,Flo Rida Featuring Wynter,7,15,6,7,False,2009-05-04,spotify:track:6UelLqGlWMcVH1E5c4H7lY
+60904,Dead And Gone,T.I. Featuring Justin Timberlake,2,8,21,8,False,2009-05-04,spotify:track:7IhsLJMqdxoo7YAZjaSMru
+60905,The Climb,Miley Cyrus,4,4,8,9,False,2009-05-04,spotify:track:0V8FYVlBFuXXTIvRnMbZyS
+60906,Halo,Beyonce,10,12,14,10,False,2009-05-04,spotify:track:4JehYebiI9JE8sR8MisGVb
+60907,We Made You,Eminem,9,9,2,11,False,2009-05-04,spotify:track:4UMTp91LHhvW33ol9ZQH0Q
+60908,Gives You Hell,The All-American Rejects,4,11,24,12,False,2009-05-04,spotify:track:6ihL9TjfRjadfEePzXXyVF
+60909,Don't Trust Me,3OH!3,13,19,20,13,False,2009-05-04,spotify:track:7n6Zwr9JmTKQ6XjjYOjdLF
+60910,Just Dance,Lady Gaga Featuring Colby O'Donis,1,14,38,14,False,2009-05-04,spotify:track:2x7MyWybabEz6Y6wvHuwGE
+60911,You Found Me,The Fray,7,10,23,15,False,2009-05-04,spotify:track:4IoYz8XqqdowINzfRrFnhi
+60912,I Know You Want Me (Calle Ocho),Pitbull,16,23,9,16,False,2009-05-04,spotify:track:13plQdOoWSSXPRUSZc5FuM
+60913,My Life Would Suck Without You,Kelly Clarkson,1,13,15,17,False,2009-05-04,spotify:track:4Dm32oO01YpIubCHaAtKkN
+60914,Love Story,Taylor Swift,4,16,33,18,False,2009-05-04,spotify:track:1eQpzJW0swYMnET7UYnWA6
+60915,If U Seek Amy,Britney Spears,19,22,11,19,False,2009-05-04,spotify:track:2hdy9Wt9qp7M7d0U3ossu2
+60916,Second Chance,Shinedown,20,20,22,20,False,2009-05-04,spotify:track:0CwYG1UnRmOx8Q1EzElCIL
+60917,Turn My Swag On,Soulja Boy Tell'em,21,30,8,21,False,2009-05-04,spotify:track:6ATrsVaZT7XjkCynxM8cTS
+60918,Turnin Me On,Keri Hilson Featuring Lil Wayne,15,21,19,22,False,2009-05-04,spotify:track:02Df1JGm5Sjh2GmRAl5ClR
+60919,I'm Yours,Jason Mraz,6,27,54,23,False,2009-05-04,spotify:track:5smPViFYtztTo7ww9gJXpD
+60920,Love Sex Magic,Ciara Featuring Justin Timberlake,10,25,7,24,False,2009-05-04,spotify:track:158q3fa4ZMoMYWdiYWD5NL
+60921,Sober,P!nk,15,26,22,25,False,2009-05-04,spotify:track:733ncRLzZQT5UtSPg1QmPc
+60997,Boom Boom Pow,The Black Eyed Peas,1,1,11,1,False,2009-06-04,spotify:track:5SAxxJbB2C9NgxHjTWvsk1
+60998,Poker Face,Lady Gaga,1,2,23,2,False,2009-06-04,spotify:track:5R8dQOPq8haW94K7mgERlO
+60999,Blame It,Jamie Foxx Featuring T-Pain,2,3,19,3,False,2009-06-04,spotify:track:2Kbw7W6OhWYOI1NfRYH5XQ
+61000,Don't Stop Believin',Glee Cast,4,0,1,4,True,2009-06-04,spotify:track:4mVKdnUMkuQlGQ7cRqcAPY
+61001,I Know You Want Me (Calle Ocho),Pitbull,4,4,13,5,False,2009-06-04,spotify:track:13plQdOoWSSXPRUSZc5FuM
+61002,New Divide,Linkin Park,6,0,1,6,True,2009-06-04,spotify:track:6Wx88Mv6b9ofjKMKkdwOJd
+61003,Day 'N' Nite,Kid Cudi,3,5,19,7,False,2009-06-04,spotify:track:5wfllwdjglyQislkskYLBv
+61004,Halo,Beyonce,5,6,18,8,False,2009-06-04,spotify:track:4JehYebiI9JE8sR8MisGVb
+61005,Birthday Sex,Jeremih,9,9,7,9,False,2009-06-04,spotify:track:4NpDZPwSXmL0cCTaJuVrCw
+61006,Waking Up In Vegas,Katy Perry,10,13,4,10,False,2009-06-04,spotify:track:6fvxos1qSHrIgOkKw4dhWS
+61007,No Boundaries,Kris Allen,11,0,1,11,True,2009-06-04,spotify:track:4K5LLD1QqDCYfCfe7MjAsG
+61008,Fire Burning,Sean Kingston,12,18,3,12,False,2009-06-04,spotify:track:2oENJa1T33GJ0w8dC167G4
+61009,Knock You Down,Keri Hilson Featuring Kanye West & Ne-Yo,13,14,9,13,False,2009-06-04,spotify:track:58FUwmyGUqkt53YPUcm7cJ
+61010,Don't Trust Me,3OH!3,7,7,24,14,False,2009-06-04,spotify:track:7n6Zwr9JmTKQ6XjjYOjdLF
+61011,The Climb,Miley Cyrus,4,11,12,15,False,2009-06-04,spotify:track:0V8FYVlBFuXXTIvRnMbZyS
+61012,Heartless,Kris Allen,16,0,1,16,True,2009-06-04,spotify:track:4gwDrsXJPXfCAYFbpUjeCW
+61013,Sugar,Flo Rida Featuring Wynter,5,8,10,17,False,2009-06-04,spotify:track:6UelLqGlWMcVH1E5c4H7lY
+61014,Second Chance,Shinedown,14,15,26,18,False,2009-06-04,spotify:track:0CwYG1UnRmOx8Q1EzElCIL
+61015,Mad World,Adam Lambert,19,0,1,19,True,2009-06-04,spotify:track:4n8Syhm2XQOvenU8SnVAhZ
+61016,Kiss A Girl,Keith Urban,20,51,11,20,False,2009-06-04,spotify:track:4DyKZmONpoggnn3piyjad2
+61017,Right Round,Flo Rida,1,12,17,21,False,2009-06-04,spotify:track:3GpbwCm3YxiWDvy29Uo3vP
+61018,LoveGame,Lady Gaga,22,27,6,22,False,2009-06-04,spotify:track:0TcJ7QWpggdSg8t0fHThHm
+61019,Kiss Me Thru The Phone,Soulja Boy Tell 'em Featuring Sammie,3,10,22,23,False,2009-06-04,spotify:track:2q4rjDy9WhaN3o9MvDbO21
+61020,Permanent,David Cook,24,0,1,24,True,2009-06-04,spotify:track:7bppBAD4NHqVqzXkrkZVxY
+61021,Turn My Swag On,Soulja Boy Tell'em,19,20,12,25,False,2009-06-04,spotify:track:6ATrsVaZT7XjkCynxM8cTS
+61097,Boom Boom Pow,The Black Eyed Peas,1,1,15,1,False,2009-07-04,spotify:track:5SAxxJbB2C9NgxHjTWvsk1
+61098,I Gotta Feeling,The Black Eyed Peas,2,2,2,2,False,2009-07-04,spotify:track:1NYjuVSkHaYK7QAIvs7lrF
+61099,Best I Ever Had,Drake,3,27,7,3,False,2009-07-04,spotify:track:3QLjDkgLh9AOEHlhQtDuhs
+61100,Knock You Down,Keri Hilson Featuring Kanye West & Ne-Yo,3,3,13,4,False,2009-07-04,spotify:track:58FUwmyGUqkt53YPUcm7cJ
+61101,I Know You Want Me (Calle Ocho),Pitbull,2,4,17,5,False,2009-07-04,spotify:track:13plQdOoWSSXPRUSZc5FuM
+61102,LoveGame,Lady Gaga,5,5,10,6,False,2009-07-04,spotify:track:0TcJ7QWpggdSg8t0fHThHm
+61103,Fire Burning,Sean Kingston,7,8,7,7,False,2009-07-04,spotify:track:2oENJa1T33GJ0w8dC167G4
+61104,Birthday Sex,Jeremih,4,6,11,8,False,2009-07-04,spotify:track:4NpDZPwSXmL0cCTaJuVrCw
+61105,Second Chance,Shinedown,7,9,30,9,False,2009-07-04,spotify:track:0CwYG1UnRmOx8Q1EzElCIL
+61106,Every Girl,Young Money,10,34,7,10,False,2009-07-04,spotify:track:6klZDCEsQzMELAPyovvpUw
+61107,Waking Up In Vegas,Katy Perry,10,11,8,11,False,2009-07-04,spotify:track:6fvxos1qSHrIgOkKw4dhWS
+61108,Poker Face,Lady Gaga,1,7,27,12,False,2009-07-04,spotify:track:5R8dQOPq8haW94K7mgERlO
+61109,Halo,Beyonce,5,10,22,13,False,2009-07-04,spotify:track:4JehYebiI9JE8sR8MisGVb
+61110,Don't Trust Me,3OH!3,7,13,28,14,False,2009-07-04,spotify:track:7n6Zwr9JmTKQ6XjjYOjdLF
+61111,The Climb,Miley Cyrus,4,12,16,15,False,2009-07-04,spotify:track:0V8FYVlBFuXXTIvRnMbZyS
+61112,You Belong With Me,Taylor Swift,12,18,9,16,False,2009-07-04,spotify:track:1qrpoAMXodY6895hGKoUpA
+61113,Day 'N' Nite,Kid Cudi,3,15,23,17,False,2009-07-04,spotify:track:5wfllwdjglyQislkskYLBv
+61114,Goodbye,Kristinia DeBarge,15,16,9,18,False,2009-07-04,spotify:track:5myYDbAurm1CW038qd4gL2
+61115,Blame It,Jamie Foxx Featuring T-Pain,2,14,23,19,False,2009-07-04,spotify:track:2Kbw7W6OhWYOI1NfRYH5XQ
+61116,Please Don't Leave Me,P!nk,20,20,10,20,False,2009-07-04,spotify:track:2gnZad0pb6QtUqMLTj2AjI
+61117,If Today Was Your Last Day,Nickelback,21,22,14,21,False,2009-07-04,spotify:track:4QJLKU75Rg4558f4LbDBRi
+61118,Out Last Night,Kenny Chesney,16,17,10,22,False,2009-07-04,spotify:track:4QoZGQ8woaho94v629kVl1
+61119,Use Somebody,Kings Of Leon,19,23,21,23,False,2009-07-04,spotify:track:5VGlqQANWDKJFl0MBG3sg2
+61120,Right Round,Flo Rida,1,19,21,24,False,2009-07-04,spotify:track:3GpbwCm3YxiWDvy29Uo3vP
+61121,I Do Not Hook Up,Kelly Clarkson,20,24,10,25,False,2009-07-04,spotify:track:2I5CPUnMIKjEXeg61OI9uV
+61197,I Gotta Feeling,The Black Eyed Peas,1,1,7,1,False,2009-08-04,spotify:track:1NYjuVSkHaYK7QAIvs7lrF
+61198,Best I Ever Had,Drake,2,2,12,2,False,2009-08-04,spotify:track:3QLjDkgLh9AOEHlhQtDuhs
+61199,Knock You Down,Keri Hilson Featuring Kanye West & Ne-Yo,3,4,18,3,False,2009-08-04,spotify:track:58FUwmyGUqkt53YPUcm7cJ
+61200,You Belong With Me,Taylor Swift,3,3,14,4,False,2009-08-04,spotify:track:1qrpoAMXodY6895hGKoUpA
+61201,Use Somebody,Kings Of Leon,5,11,26,5,False,2009-08-04,spotify:track:5VGlqQANWDKJFl0MBG3sg2
+61202,Fire Burning,Sean Kingston,5,5,12,6,False,2009-08-04,spotify:track:2oENJa1T33GJ0w8dC167G4
+61203,Boom Boom Pow,The Black Eyed Peas,1,6,20,7,False,2009-08-04,spotify:track:5SAxxJbB2C9NgxHjTWvsk1
+61204,LoveGame,Lady Gaga,5,7,15,8,False,2009-08-04,spotify:track:0TcJ7QWpggdSg8t0fHThHm
+61205,Waking Up In Vegas,Katy Perry,9,10,13,9,False,2009-08-04,spotify:track:6fvxos1qSHrIgOkKw4dhWS
+61206,Battlefield,Jordin Sparks,10,25,11,10,False,2009-08-04,spotify:track:1Nme6K1PYAh7p7uygyuRdf
+61207,I Know You Want Me (Calle Ocho),Pitbull,2,8,22,11,False,2009-08-04,spotify:track:13plQdOoWSSXPRUSZc5FuM
+61208,Good Girls Go Bad,Cobra Starship Featuring Leighton Meester,12,12,9,12,False,2009-08-04,spotify:track:7kMfu3KUydmrFVGEAhjtyl
+61209,Birthday Sex,Jeremih,4,9,16,13,False,2009-08-04,spotify:track:4NpDZPwSXmL0cCTaJuVrCw
+61210,Every Girl,Young Money,10,13,12,14,False,2009-08-04,spotify:track:6klZDCEsQzMELAPyovvpUw
+61211,Here We Go Again,Demi Lovato,15,24,5,15,False,2009-08-04,spotify:track:33RJ3P6wc0B0FIyDalhNTv
+61212,Don't Trust Me,3OH!3,7,14,33,16,False,2009-08-04,spotify:track:7n6Zwr9JmTKQ6XjjYOjdLF
+61213,Obsessed,Mariah Carey,11,20,3,17,False,2009-08-04,spotify:track:3IcIIZMMS7UArJJPtEHXG8
+61214,New Divide,Linkin Park,6,15,10,18,False,2009-08-04,spotify:track:6Wx88Mv6b9ofjKMKkdwOJd
+61215,Please Don't Leave Me,P!nk,17,17,15,19,False,2009-08-04,spotify:track:2gnZad0pb6QtUqMLTj2AjI
+61216,Halo,Beyonce,5,16,27,20,False,2009-08-04,spotify:track:4JehYebiI9JE8sR8MisGVb
+61217,The Climb,Miley Cyrus,4,18,21,21,False,2009-08-04,spotify:track:0V8FYVlBFuXXTIvRnMbZyS
+61218,Hotel Room Service,Pitbull,22,31,6,22,False,2009-08-04,spotify:track:0OPyDgTRuIdCJ9B4bYSths
+61219,Poker Face,Lady Gaga,1,19,32,23,False,2009-08-04,spotify:track:5R8dQOPq8haW94K7mgERlO
+61220,Second Chance,Shinedown,7,21,35,24,False,2009-08-04,spotify:track:0CwYG1UnRmOx8Q1EzElCIL
+61221,21 Guns,Green Day,25,26,5,25,False,2009-08-04,spotify:track:64yrDBpcdwEdNY9loyEGbX
+61297,I Gotta Feeling,The Black Eyed Peas,1,1,11,1,False,2009-09-04,spotify:track:1NYjuVSkHaYK7QAIvs7lrF
+61298,Party In The U.S.A.,Miley Cyrus,2,2,2,2,False,2009-09-04,spotify:track:5Q0Nhxo0l2bP3pNjpGJwV1
+61299,Down,Jay Sean Featuring Lil Wayne,3,7,8,3,False,2009-09-04,spotify:track:0WtM2NBVQNNJLh6scP13H8
+61300,You Belong With Me,Taylor Swift,2,4,18,4,False,2009-09-04,spotify:track:1qrpoAMXodY6895hGKoUpA
+61301,Run This Town,"Jay-Z, Rihanna & Kanye West",3,3,4,5,False,2009-09-04,spotify:track:7LR85XLWw2yXqKBSI5brbG
+61302,Use Somebody,Kings Of Leon,5,5,30,6,False,2009-09-04,spotify:track:5VGlqQANWDKJFl0MBG3sg2
+61303,Best I Ever Had,Drake,2,6,16,7,False,2009-09-04,spotify:track:3QLjDkgLh9AOEHlhQtDuhs
+61304,Knock You Down,Keri Hilson Featuring Kanye West & Ne-Yo,3,8,22,8,False,2009-09-04,spotify:track:58FUwmyGUqkt53YPUcm7cJ
+61305,Good Girls Go Bad,Cobra Starship Featuring Leighton Meester,7,9,13,9,False,2009-09-04,spotify:track:7kMfu3KUydmrFVGEAhjtyl
+61306,Hotel Room Service,Pitbull,9,10,10,10,False,2009-09-04,spotify:track:0OPyDgTRuIdCJ9B4bYSths
+61307,Obsessed,Mariah Carey,11,11,7,11,False,2009-09-04,spotify:track:3IcIIZMMS7UArJJPtEHXG8
+61308,She Wolf,Shakira,12,12,6,12,False,2009-09-04,spotify:track:3Bi9RWqWQeBYghhOeKPyep
+61309,Boom Boom Pow,The Black Eyed Peas,1,15,24,13,False,2009-09-04,spotify:track:5SAxxJbB2C9NgxHjTWvsk1
+61310,Waking Up In Vegas,Katy Perry,9,14,17,14,False,2009-09-04,spotify:track:6fvxos1qSHrIgOkKw4dhWS
+61311,Fire Burning,Sean Kingston,5,13,16,15,False,2009-09-04,spotify:track:2oENJa1T33GJ0w8dC167G4
+61312,Battlefield,Jordin Sparks,10,17,15,16,False,2009-09-04,spotify:track:1Nme6K1PYAh7p7uygyuRdf
+61313,Break Up,Mario Featuring Gucci Mane & Sean Garrett,17,19,10,17,False,2009-09-04,spotify:track:4kV4N9D1iKVxx1KLvtTpjS
+61314,LoveGame,Lady Gaga,5,16,19,18,False,2009-09-04,spotify:track:0TcJ7QWpggdSg8t0fHThHm
+61315,I Know You Want Me (Calle Ocho),Pitbull,2,18,26,19,False,2009-09-04,spotify:track:13plQdOoWSSXPRUSZc5FuM
+61316,Big Green Tractor,Jason Aldean,20,21,11,20,False,2009-09-04,spotify:track:4KAzYqfcijCSZa2P3etHoM
+61317,Send It On,Disney's Friends For Change,20,20,2,21,False,2009-09-04,spotify:track:5LIwaG8Wl9LfExcmiRQm7J
+61318,Throw It In The Bag,Fabolous Featuring The-Dream,22,23,12,22,False,2009-09-04,spotify:track:6c0GmyBsE7mQtrVvxJaWc3
+61319,No Surprise,Daughtry,15,25,16,23,False,2009-09-04,spotify:track:04Sl2hULaCVM7Iw8kzXPHN
+61320,Whatcha Say,Jason Derulo,24,54,2,24,False,2009-09-04,spotify:track:67T6l4q3zVjC5nZZPXByU8
+61321,Every Girl,Young Money,10,22,16,25,False,2009-09-04,spotify:track:6klZDCEsQzMELAPyovvpUw
+61397,I Gotta Feeling,The Black Eyed Peas,1,1,16,1,False,2009-10-04,spotify:track:1NYjuVSkHaYK7QAIvs7lrF
+61398,Down,Jay Sean Featuring Lil Wayne,2,3,13,2,False,2009-10-04,spotify:track:0WtM2NBVQNNJLh6scP13H8
+61399,Party In The U.S.A.,Miley Cyrus,2,6,7,3,False,2009-10-04,spotify:track:5Q0Nhxo0l2bP3pNjpGJwV1
+61400,Run This Town,"Jay-Z, Rihanna & Kanye West",2,2,9,4,False,2009-10-04,spotify:track:7LR85XLWw2yXqKBSI5brbG
+61401,Whatcha Say,Jason Derulo,5,10,7,5,False,2009-10-04,spotify:track:67T6l4q3zVjC5nZZPXByU8
+61402,You Belong With Me,Taylor Swift,2,4,23,6,False,2009-10-04,spotify:track:1qrpoAMXodY6895hGKoUpA
+61403,Paparazzi,Lady Gaga,7,7,5,7,False,2009-10-04,spotify:track:7Hqig8kp32q2Ire3ECQvWM
+61404,Use Somebody,Kings Of Leon,4,9,35,8,False,2009-10-04,spotify:track:5VGlqQANWDKJFl0MBG3sg2
+61405,Obsessed,Mariah Carey,7,11,12,9,False,2009-10-04,spotify:track:3IcIIZMMS7UArJJPtEHXG8
+61406,Empire State Of Mind,Jay-Z + Alicia Keys,5,5,3,10,False,2009-10-04,spotify:track:2igwFfvr1OAGX9SKDCPBwO
+61407,Cowboy Casanova,Carrie Underwood,11,96,2,11,False,2009-10-04,spotify:track:6OqdF0vHI9xkqswI7EK0cD
+61408,Forever,"Drake Featuring Kanye West, Lil Wayne & Eminem",8,8,2,12,False,2009-10-04,spotify:track:6IBcOGPsniK3Pso1wHIhew
+61409,She Wolf,Shakira,11,13,11,13,False,2009-10-04,spotify:track:3Bi9RWqWQeBYghhOeKPyep
+61410,Hotel Room Service,Pitbull,8,12,15,14,False,2009-10-04,spotify:track:0OPyDgTRuIdCJ9B4bYSths
+61411,Sweet Dreams,Beyonce,15,18,10,15,False,2009-10-04,spotify:track:1FKxKGONukVFXWVJxAKmlz
+61412,Best I Ever Had,Drake,2,14,21,16,False,2009-10-04,spotify:track:3QLjDkgLh9AOEHlhQtDuhs
+61413,Good Girls Go Bad,Cobra Starship Featuring Leighton Meester,7,16,18,17,False,2009-10-04,spotify:track:7kMfu3KUydmrFVGEAhjtyl
+61414,Throw It In The Bag,Fabolous Featuring The-Dream,14,19,17,18,False,2009-10-04,spotify:track:6c0GmyBsE7mQtrVvxJaWc3
+61415,Knock You Down,Keri Hilson Featuring Kanye West & Ne-Yo,3,15,27,19,False,2009-10-04,spotify:track:58FUwmyGUqkt53YPUcm7cJ
+61416,Break Up,Mario Featuring Gucci Mane & Sean Garrett,14,20,15,20,False,2009-10-04,spotify:track:4kV4N9D1iKVxx1KLvtTpjS
+61417,Successful,Drake Featuring Trey Songz & Lil Wayne,17,17,11,21,False,2009-10-04,spotify:track:5YeHLHDdQ4nKHk81XFWhCU
+61418,Say Hey (I Love You),Michael Franti & Spearhead Featuring Cherine Anderson,21,24,10,22,False,2009-10-04,spotify:track:383B8ksM58jbV3HbiRJo0K
+61419,Be On You,Flo Rida Featuring Ne-Yo,19,23,11,23,False,2009-10-04,spotify:track:2rxQMGVafnNaRaXlRMWPde
+61420,Fireflies,Owl City,24,46,6,24,False,2009-10-04,spotify:track:3DamFFqW32WihKkTVlwTYQ
+61421,Battlefield,Jordin Sparks,10,21,20,25,False,2009-10-04,spotify:track:1Nme6K1PYAh7p7uygyuRdf
+61497,Fireflies,Owl City,1,7,10,1,False,2009-11-04,spotify:track:3DamFFqW32WihKkTVlwTYQ
+61498,Whatcha Say,Jason Derulo,2,2,11,2,False,2009-11-04,spotify:track:67T6l4q3zVjC5nZZPXByU8
+61499,Down,Jay Sean Featuring Lil Wayne,1,1,17,3,False,2009-11-04,spotify:track:0WtM2NBVQNNJLh6scP13H8
+61500,Party In The U.S.A.,Miley Cyrus,2,3,11,4,False,2009-11-04,spotify:track:5Q0Nhxo0l2bP3pNjpGJwV1
+61501,Run This Town,"Jay-Z, Rihanna & Kanye West",2,4,13,5,False,2009-11-04,spotify:track:7LR85XLWw2yXqKBSI5brbG
+61502,Paparazzi,Lady Gaga,6,6,9,6,False,2009-11-04,spotify:track:7Hqig8kp32q2Ire3ECQvWM
+61503,Meet Me Halfway,The Black Eyed Peas,7,9,6,7,False,2009-11-04,spotify:track:2wgT2kmeRHkulsMfreGqXE
+61504,3,Britney Spears,1,5,3,8,False,2009-11-04,spotify:track:6pymOcrCnMuCWdgGVTvUgP
+61505,I Gotta Feeling,The Black Eyed Peas,1,8,20,9,False,2009-11-04,spotify:track:1NYjuVSkHaYK7QAIvs7lrF
+61506,Sweet Dreams,Beyonce,10,11,14,10,False,2009-11-04,spotify:track:1FKxKGONukVFXWVJxAKmlz
+61507,You Belong With Me,Taylor Swift,2,10,27,11,False,2009-11-04,spotify:track:1qrpoAMXodY6895hGKoUpA
+61508,Replay,Iyaz,12,14,10,12,False,2009-11-04,spotify:track:5vlEg2fT4cFWAqU5QptIpQ
+61509,Empire State Of Mind,Jay-Z + Alicia Keys,5,12,7,13,False,2009-11-04,spotify:track:2igwFfvr1OAGX9SKDCPBwO
+61510,Forever,"Drake Featuring Kanye West, Lil Wayne & Eminem",8,15,6,14,False,2009-11-04,spotify:track:6IBcOGPsniK3Pso1wHIhew
+61511,Use Somebody,Kings Of Leon,4,13,39,15,False,2009-11-04,spotify:track:5VGlqQANWDKJFl0MBG3sg2
+61512,Sexy Chick,David Guetta Featuring Akon,16,21,12,16,False,2009-11-04,spotify:track:4MKzCHlZvkwJOQRNkdw4zq
+61513,Already Gone,Kelly Clarkson,17,20,13,17,False,2009-11-04,spotify:track:4fq2YUONcgrCJ2SPndSeKC
+61514,Need You Now,Lady Antebellum,18,22,11,18,False,2009-11-04,spotify:track:11EX5yhxr9Ihl3IN1asrfK
+61515,Obsessed,Mariah Carey,7,16,16,19,False,2009-11-04,spotify:track:3IcIIZMMS7UArJJPtEHXG8
+61516,One Time,Justin Bieber,20,23,14,20,False,2009-11-04,spotify:track:3VKxsKVkHcl9LjY2K8QrFq
+61517,Cowboy Casanova,Carrie Underwood,11,19,6,21,False,2009-11-04,spotify:track:6OqdF0vHI9xkqswI7EK0cD
+61518,TiK ToK,Ke$ha,22,55,3,22,False,2009-11-04,spotify:track:0HPD5WQqrq7wPWR7P7Dw1i
+61519,Break Up,Mario Featuring Gucci Mane & Sean Garrett,14,18,19,23,False,2009-11-04,spotify:track:4kV4N9D1iKVxx1KLvtTpjS
+61520,I Can Transform Ya,Chris Brown Featuring Lil Wayne & Swizz Beatz,24,27,3,24,False,2009-11-04,spotify:track:7n6TT5TDeS0A1DqEtSdapf
+61521,Toes,Zac Brown Band,25,26,14,25,False,2009-11-04,spotify:track:4S518ci8UY4op0Xyp6Hx6o
+61597,Empire State Of Mind,Jay-Z + Alicia Keys,1,1,11,1,False,2009-12-04,spotify:track:2igwFfvr1OAGX9SKDCPBwO
+61598,Bad Romance,Lady Gaga,2,11,4,2,False,2009-12-04,spotify:track:0SiywuOBRcynK0uKGWdCnn
+61599,Fireflies,Owl City,1,2,14,3,False,2009-12-04,spotify:track:3DamFFqW32WihKkTVlwTYQ
+61600,Whatcha Say,Jason Derulo,1,3,15,4,False,2009-12-04,spotify:track:67T6l4q3zVjC5nZZPXByU8
+61601,TiK ToK,Ke$ha,5,10,7,5,False,2009-12-04,spotify:track:0HPD5WQqrq7wPWR7P7Dw1i
+61602,Replay,Iyaz,4,4,14,6,False,2009-12-04,spotify:track:5vlEg2fT4cFWAqU5QptIpQ
+61603,Sexy Chick,David Guetta Featuring Akon,7,12,16,7,False,2009-12-04,spotify:track:4MKzCHlZvkwJOQRNkdw4zq
+61604,Paparazzi,Lady Gaga,6,9,13,8,False,2009-12-04,spotify:track:7Hqig8kp32q2Ire3ECQvWM
+61605,3,Britney Spears,1,6,7,9,False,2009-12-04,spotify:track:6pymOcrCnMuCWdgGVTvUgP
+61606,Down,Jay Sean Featuring Lil Wayne,1,7,21,10,False,2009-12-04,spotify:track:0WtM2NBVQNNJLh6scP13H8
+61607,Party In The U.S.A.,Miley Cyrus,2,8,15,11,False,2009-12-04,spotify:track:5Q0Nhxo0l2bP3pNjpGJwV1
+61608,Meet Me Halfway,The Black Eyed Peas,7,15,10,12,False,2009-12-04,spotify:track:2wgT2kmeRHkulsMfreGqXE
+61609,Sweet Dreams,Beyonce,10,13,18,13,False,2009-12-04,spotify:track:1FKxKGONukVFXWVJxAKmlz
+61610,Need You Now,Lady Antebellum,5,5,15,14,False,2009-12-04,spotify:track:11EX5yhxr9Ihl3IN1asrfK
+61611,You Belong With Me,Taylor Swift,2,14,31,15,False,2009-12-04,spotify:track:1qrpoAMXodY6895hGKoUpA
+61612,Already Gone,Kelly Clarkson,16,20,17,16,False,2009-12-04,spotify:track:4fq2YUONcgrCJ2SPndSeKC
+61613,Forever,"Drake Featuring Kanye West, Lil Wayne & Eminem",8,19,10,17,False,2009-12-04,spotify:track:6IBcOGPsniK3Pso1wHIhew
+61614,I Gotta Feeling,The Black Eyed Peas,1,18,24,18,False,2009-12-04,spotify:track:1NYjuVSkHaYK7QAIvs7lrF
+61615,Russian Roulette,Rihanna,9,16,5,19,False,2009-12-04,spotify:track:3rMsX63C0IZVnOT5LGYoTH
+61616,Run This Town,"Jay-Z, Rihanna & Kanye West",2,17,17,20,False,2009-12-04,spotify:track:7LR85XLWw2yXqKBSI5brbG
+61617,Use Somebody,Kings Of Leon,4,22,43,21,False,2009-12-04,spotify:track:5VGlqQANWDKJFl0MBG3sg2
+61618,I Can Transform Ya,Chris Brown Featuring Lil Wayne & Swizz Beatz,22,24,7,22,False,2009-12-04,spotify:track:7n6TT5TDeS0A1DqEtSdapf
+61619,Cowboy Casanova,Carrie Underwood,11,21,10,23,False,2009-12-04,spotify:track:6OqdF0vHI9xkqswI7EK0cD
+61620,One Time,Justin Bieber,20,23,18,24,False,2009-12-04,spotify:track:3VKxsKVkHcl9LjY2K8QrFq
+61621,Half Of My Heart,John Mayer,25,0,1,25,True,2009-12-04,spotify:track:7hR5toSPEgwFZ78jfHdANM
+61697,TiK ToK,Ke$ha,1,1,12,1,False,2010-01-04,spotify:track:0HPD5WQqrq7wPWR7P7Dw1i
+61698,Replay,Iyaz,2,4,19,2,False,2010-01-04,spotify:track:5vlEg2fT4cFWAqU5QptIpQ
+61699,Bad Romance,Lady Gaga,2,3,9,3,False,2010-01-04,spotify:track:0SiywuOBRcynK0uKGWdCnn
+61700,Fireflies,Owl City,1,5,19,4,False,2010-01-04,spotify:track:3DamFFqW32WihKkTVlwTYQ
+61701,Empire State Of Mind,Jay-Z + Alicia Keys,1,2,16,5,False,2010-01-04,spotify:track:2igwFfvr1OAGX9SKDCPBwO
+61702,Whatcha Say,Jason Derulo,1,7,20,6,False,2010-01-04,spotify:track:67T6l4q3zVjC5nZZPXByU8
+61703,Down,Jay Sean Featuring Lil Wayne,1,8,26,7,False,2010-01-04,spotify:track:0WtM2NBVQNNJLh6scP13H8
+61704,Party In The U.S.A.,Miley Cyrus,2,19,20,8,False,2010-01-04,spotify:track:5Q0Nhxo0l2bP3pNjpGJwV1
+61705,Sexy Chick,David Guetta Featuring Akon,6,6,21,9,False,2010-01-04,spotify:track:4MKzCHlZvkwJOQRNkdw4zq
+61706,Do You Remember,Jay Sean Featuring Sean Paul & Lil Jon,10,14,8,10,False,2010-01-04,spotify:track:1EZJBB6bvCcrvYRlOyoHuf
+61707,Meet Me Halfway,The Black Eyed Peas,7,9,15,11,False,2010-01-04,spotify:track:2wgT2kmeRHkulsMfreGqXE
+61708,BedRock,Young Money Featuring Lloyd,12,12,5,12,False,2010-01-04,spotify:track:3iL2l5gUqyPS6vDwJFgJTR
+61709,3,Britney Spears,1,10,12,13,False,2010-01-04,spotify:track:6pymOcrCnMuCWdgGVTvUgP
+61710,I Gotta Feeling,The Black Eyed Peas,1,20,29,14,False,2010-01-04,spotify:track:1NYjuVSkHaYK7QAIvs7lrF
+61711,Paparazzi,Lady Gaga,6,15,18,15,False,2010-01-04,spotify:track:7Hqig8kp32q2Ire3ECQvWM
+61712,Forever,"Drake Featuring Kanye West, Lil Wayne & Eminem",8,16,15,16,False,2010-01-04,spotify:track:6IBcOGPsniK3Pso1wHIhew
+61713,One Time,Justin Bieber,17,47,23,17,False,2010-01-04,spotify:track:3VKxsKVkHcl9LjY2K8QrFq
+61714,Hard,Rihanna Featuring Jeezy,11,11,6,18,False,2010-01-04,spotify:track:4686eQ81DEswHa90bcdlC9
+61715,You Belong With Me,Taylor Swift,2,22,36,19,False,2010-01-04,spotify:track:1qrpoAMXodY6895hGKoUpA
+61716,Two Is Better Than One,Boys Like Girls Featuring Taylor Swift,20,23,10,20,False,2010-01-04,spotify:track:1MaqkdFNIKPdpQGDzme5ss
+61717,I Can Transform Ya,Chris Brown Featuring Lil Wayne & Swizz Beatz,20,24,12,21,False,2010-01-04,spotify:track:7n6TT5TDeS0A1DqEtSdapf
+61718,Need You Now,Lady Antebellum,5,21,20,22,False,2010-01-04,spotify:track:11EX5yhxr9Ihl3IN1asrfK
+61719,How Low,Ludacris,13,13,3,23,False,2010-01-04,spotify:track:1WtTLtofvcjQM3sXSMkDdX
+61720,Sweet Dreams,Beyonce,10,17,23,24,False,2010-01-04,spotify:track:1FKxKGONukVFXWVJxAKmlz
+61721,Fifteen,Taylor Swift,23,30,17,25,False,2010-01-04,spotify:track:2nqio0SfWg6gh2eCtfuMa5
+61797,TiK ToK,Ke$ha,1,1,16,1,False,2010-02-04,spotify:track:0HPD5WQqrq7wPWR7P7Dw1i
+61798,Today Was A Fairytale,Taylor Swift,2,0,1,2,True,2010-02-04,spotify:track:2JoJrsEV15OzbijS47lids
+61799,Bad Romance,Lady Gaga,2,2,13,3,False,2010-02-04,spotify:track:0SiywuOBRcynK0uKGWdCnn
+61800,BedRock,Young Money Featuring Lloyd,4,4,9,4,False,2010-02-04,spotify:track:3iL2l5gUqyPS6vDwJFgJTR
+61801,Baby,Justin Bieber Featuring Ludacris,5,0,1,5,True,2010-02-04,spotify:track:78QR3Wp35dqAhFEc2qAGjE
+61802,Replay,Iyaz,2,5,23,6,False,2010-02-04,spotify:track:5vlEg2fT4cFWAqU5QptIpQ
+61803,Sexy Chick,David Guetta Featuring Akon,6,6,25,7,False,2010-02-04,spotify:track:4MKzCHlZvkwJOQRNkdw4zq
+61804,Empire State Of Mind,Jay-Z + Alicia Keys,1,3,20,8,False,2010-02-04,spotify:track:2igwFfvr1OAGX9SKDCPBwO
+61805,Hard,Rihanna Featuring Jeezy,8,8,10,9,False,2010-02-04,spotify:track:4686eQ81DEswHa90bcdlC9
+61806,"Hey, Soul Sister",Train,7,7,17,10,False,2010-02-04,spotify:track:4HlFJV71xXKIGcU3kRyttv
+61807,Imma Be,The Black Eyed Peas,11,15,8,11,False,2010-02-04,spotify:track:4EN6UosT26XBMgkI9eA48U
+61808,How Low,Ludacris,10,10,7,12,False,2010-02-04,spotify:track:1WtTLtofvcjQM3sXSMkDdX
+61809,Fireflies,Owl City,1,9,23,13,False,2010-02-04,spotify:track:3DamFFqW32WihKkTVlwTYQ
+61810,Carry Out,Timbaland Featuring Justin Timberlake,14,32,8,14,False,2010-02-04,spotify:track:2DHc2e5bBn4UzY0ENVFrUl
+61811,I Gotta Feeling,The Black Eyed Peas,1,11,33,15,False,2010-02-04,spotify:track:1NYjuVSkHaYK7QAIvs7lrF
+61812,Stranded (Haiti Mon Amour),"Jay-Z, Bono, The Edge & Rihanna",16,0,1,16,True,2010-02-04,
+61813,Do You Remember,Jay Sean Featuring Sean Paul & Lil Jon,10,13,12,17,False,2010-02-04,spotify:track:1EZJBB6bvCcrvYRlOyoHuf
+61814,Need You Now,Lady Antebellum,5,17,24,18,False,2010-02-04,spotify:track:11EX5yhxr9Ihl3IN1asrfK
+61815,Say Aah,Trey Songz Featuring Fabolous,19,19,11,19,False,2010-02-04,spotify:track:2fQ6sBFWaLv2Gxos4igHLy
+61816,Telephone,Lady Gaga Featuring Beyonce,20,20,9,20,False,2010-02-04,spotify:track:0JIMT9gzLIIz0esKLyjbKf
+61817,Blah Blah Blah,Ke$ha Featuring 3OH!3,7,12,3,21,False,2010-02-04,spotify:track:7lWUJpax919G4JdaFEVmCy
+61818,Two Is Better Than One,Boys Like Girls Featuring Taylor Swift,18,18,14,22,False,2010-02-04,spotify:track:1MaqkdFNIKPdpQGDzme5ss
+61819,Down,Jay Sean Featuring Lil Wayne,1,16,30,23,False,2010-02-04,spotify:track:0WtM2NBVQNNJLh6scP13H8
+61820,According To You,Orianthi,21,21,8,24,False,2010-02-04,spotify:track:0M45YYpFECO0xvXlKgQ7sE
+61821,Whatcha Say,Jason Derulo,1,14,24,25,False,2010-02-04,spotify:track:67T6l4q3zVjC5nZZPXByU8
+61897,Imma Be,The Black Eyed Peas,1,3,12,1,False,2010-03-04,spotify:track:4EN6UosT26XBMgkI9eA48U
+61898,TiK ToK,Ke$ha,1,1,20,2,False,2010-03-04,spotify:track:0HPD5WQqrq7wPWR7P7Dw1i
+61899,BedRock,Young Money Featuring Lloyd,3,4,13,3,False,2010-03-04,spotify:track:3iL2l5gUqyPS6vDwJFgJTR
+61900,Bad Romance,Lady Gaga,2,5,17,4,False,2010-03-04,spotify:track:0SiywuOBRcynK0uKGWdCnn
+61901,Need You Now,Lady Antebellum,3,6,28,5,False,2010-03-04,spotify:track:11EX5yhxr9Ihl3IN1asrfK
+61902,We Are The World 25: For Haiti,Artists For Haiti,2,2,2,6,False,2010-03-04,spotify:track:07rhyW77lp2bGv8EQoZy6k
+61903,"Hey, Soul Sister",Train,7,7,21,7,False,2010-03-04,spotify:track:4HlFJV71xXKIGcU3kRyttv
+61904,How Low,Ludacris,6,8,11,8,False,2010-03-04,spotify:track:1WtTLtofvcjQM3sXSMkDdX
+61905,In My Head,Jason Derulo,9,9,11,9,False,2010-03-04,spotify:track:5BoIP8Eha5hwmRVURkC2Us
+61906,Say Aah,Trey Songz Featuring Fabolous,10,12,15,10,False,2010-03-04,spotify:track:2fQ6sBFWaLv2Gxos4igHLy
+61907,Blah Blah Blah,Ke$ha Featuring 3OH!3,7,11,7,11,False,2010-03-04,spotify:track:7lWUJpax919G4JdaFEVmCy
+61908,Sexy Chick,David Guetta Featuring Akon,5,10,29,12,False,2010-03-04,spotify:track:4MKzCHlZvkwJOQRNkdw4zq
+61909,Baby,Justin Bieber Featuring Ludacris,5,19,5,13,False,2010-03-04,spotify:track:78QR3Wp35dqAhFEc2qAGjE
+61910,Telephone,Lady Gaga Featuring Beyonce,14,15,13,14,False,2010-03-04,spotify:track:0JIMT9gzLIIz0esKLyjbKf
+61911,Carry Out,Timbaland Featuring Justin Timberlake,11,13,12,15,False,2010-03-04,spotify:track:2DHc2e5bBn4UzY0ENVFrUl
+61912,Replay,Iyaz,2,14,27,16,False,2010-03-04,spotify:track:5vlEg2fT4cFWAqU5QptIpQ
+61913,According To You,Orianthi,17,20,12,17,False,2010-03-04,spotify:track:0M45YYpFECO0xvXlKgQ7sE
+61914,Empire State Of Mind,Jay-Z + Alicia Keys,1,17,24,18,False,2010-03-04,spotify:track:2igwFfvr1OAGX9SKDCPBwO
+61915,Live Like We're Dying,Kris Allen,19,21,17,19,False,2010-03-04,spotify:track:1HfxPaJggVwFsvOtHbVzMz
+61916,I Gotta Feeling,The Black Eyed Peas,1,16,37,20,False,2010-03-04,spotify:track:1NYjuVSkHaYK7QAIvs7lrF
+61917,Nothin' On You,B.o.B Featuring Bruno Mars,21,38,4,21,False,2010-03-04,spotify:track:59dLtGBS26x7kc0rHbaPrq
+61918,Breakeven,The Script,22,28,12,22,False,2010-03-04,spotify:track:285hMzLhJwHVLe9QT9qilk
+61919,Rude Boy,Rihanna,23,64,2,23,False,2010-03-04,spotify:track:60jzFy6Nn4M0iD1d94oteF
+61920,Today Was A Fairytale,Taylor Swift,2,30,5,24,False,2010-03-04,spotify:track:2JoJrsEV15OzbijS47lids
+61921,Do You Remember,Jay Sean Featuring Sean Paul & Lil Jon,10,22,16,25,False,2010-03-04,spotify:track:1EZJBB6bvCcrvYRlOyoHuf
+61997,Rude Boy,Rihanna,1,1,7,1,False,2010-04-04,spotify:track:60jzFy6Nn4M0iD1d94oteF
+61998,Nothin' On You,B.o.B Featuring Bruno Mars,2,2,9,2,False,2010-04-04,spotify:track:59dLtGBS26x7kc0rHbaPrq
+61999,"Hey, Soul Sister",Train,3,7,26,3,False,2010-04-04,spotify:track:4HlFJV71xXKIGcU3kRyttv
+62000,Need You Now,Lady Antebellum,2,4,33,4,False,2010-04-04,spotify:track:11EX5yhxr9Ihl3IN1asrfK
+62001,Telephone,Lady Gaga Featuring Beyonce,3,3,18,5,False,2010-04-04,spotify:track:0JIMT9gzLIIz0esKLyjbKf
+62002,Break Your Heart,Taio Cruz Featuring Ludacris,1,5,5,6,False,2010-04-04,spotify:track:0Nu9WA8kEbBWEsay2s8Q0U
+62003,Imma Be,The Black Eyed Peas,1,6,17,7,False,2010-04-04,spotify:track:4EN6UosT26XBMgkI9eA48U
+62004,Baby,Justin Bieber Featuring Ludacris,5,10,10,8,False,2010-04-04,spotify:track:78QR3Wp35dqAhFEc2qAGjE
+62005,BedRock,Young Money Featuring Lloyd,2,8,18,9,False,2010-04-04,spotify:track:3iL2l5gUqyPS6vDwJFgJTR
+62006,TiK ToK,Ke$ha,1,9,25,10,False,2010-04-04,spotify:track:0HPD5WQqrq7wPWR7P7Dw1i
+62007,In My Head,Jason Derulo,8,12,16,11,False,2010-04-04,spotify:track:5BoIP8Eha5hwmRVURkC2Us
+62008,Carry Out,Timbaland Featuring Justin Timberlake,11,11,17,12,False,2010-04-04,spotify:track:2DHc2e5bBn4UzY0ENVFrUl
+62009,Say Aah,Trey Songz Featuring Fabolous,9,13,20,13,False,2010-04-04,spotify:track:2fQ6sBFWaLv2Gxos4igHLy
+62010,Bad Romance,Lady Gaga,2,14,22,14,False,2010-04-04,spotify:track:0SiywuOBRcynK0uKGWdCnn
+62011,Breakeven,The Script,15,18,17,15,False,2010-04-04,spotify:track:285hMzLhJwHVLe9QT9qilk
+62012,Blah Blah Blah,Ke$ha Featuring 3OH!3,7,15,12,16,False,2010-04-04,spotify:track:7lWUJpax919G4JdaFEVmCy
+62013,How Low,Ludacris,6,16,16,17,False,2010-04-04,spotify:track:1WtTLtofvcjQM3sXSMkDdX
+62014,All The Right Moves,OneRepublic,18,20,25,18,False,2010-04-04,spotify:track:5XRHGXut00SrJUFmcn2lQF
+62015,According To You,Orianthi,17,19,17,19,False,2010-04-04,spotify:track:0M45YYpFECO0xvXlKgQ7sE
+62016,Whataya Want From Me,Adam Lambert,20,21,15,20,False,2010-04-04,spotify:track:2rDwdvBma1O1eLzo29p2cr
+62017,My Chick Bad,Ludacris Featuring Nicki Minaj,21,24,5,21,False,2010-04-04,spotify:track:3bMNprrp2JDKZsGbiXpsJl
+62018,Over,Drake,17,17,3,22,False,2010-04-04,spotify:track:6BdgtqiV3oXNqBikezwdvC
+62019,Live Like We're Dying,Kris Allen,18,22,22,23,False,2010-04-04,spotify:track:1HfxPaJggVwFsvOtHbVzMz
+62020,Sexy Chick,David Guetta Featuring Akon,5,23,34,24,False,2010-04-04,spotify:track:4MKzCHlZvkwJOQRNkdw4zq
+62021,When I Look At You,Miley Cyrus,25,58,7,25,False,2010-04-04,spotify:track:7ywzEdEuVG1lsjsRCGJfLy
+62097,Nothin' On You,B.o.B Featuring Bruno Mars,1,1,13,1,False,2010-05-04,spotify:track:59dLtGBS26x7kc0rHbaPrq
+62098,Rude Boy,Rihanna,1,2,11,2,False,2010-05-04,spotify:track:60jzFy6Nn4M0iD1d94oteF
+62099,Break Your Heart,Taio Cruz Featuring Ludacris,1,4,9,3,False,2010-05-04,spotify:track:0Nu9WA8kEbBWEsay2s8Q0U
+62100,Need You Now,Lady Antebellum,2,5,37,4,False,2010-05-04,spotify:track:11EX5yhxr9Ihl3IN1asrfK
+62101,"Hey, Soul Sister",Train,3,3,30,5,False,2010-05-04,spotify:track:4HlFJV71xXKIGcU3kRyttv
+62102,OMG,Usher Featuring will.i.am,6,8,4,6,False,2010-05-04,spotify:track:65FftemJ1DbbZ45DUfHJXE
+62103,In My Head,Jason Derulo,5,6,20,7,False,2010-05-04,spotify:track:5BoIP8Eha5hwmRVURkC2Us
+62104,Your Love Is My Drug,Ke$ha,8,9,11,8,False,2010-05-04,spotify:track:2DKE0fl2pO9dkljuupQZb5
+62105,Airplanes,B.o.B Featuring Hayley Williams,9,12,2,9,False,2010-05-04,spotify:track:6lV2MSQmRIkycDScNtrBXO
+62106,Telephone,Lady Gaga Featuring Beyonce,3,7,22,10,False,2010-05-04,spotify:track:0JIMT9gzLIIz0esKLyjbKf
+62107,My Chick Bad,Ludacris Featuring Nicki Minaj,11,13,9,11,False,2010-05-04,spotify:track:3bMNprrp2JDKZsGbiXpsJl
+62108,Young Forever,Jay-Z + Mr. Hudson,12,17,15,12,False,2010-05-04,spotify:track:35srNkJVToAzYiZzron1FY
+62109,Whataya Want From Me,Adam Lambert,10,10,19,13,False,2010-05-04,spotify:track:2rDwdvBma1O1eLzo29p2cr
+62110,Breakeven,The Script,13,14,21,14,False,2010-05-04,spotify:track:285hMzLhJwHVLe9QT9qilk
+62111,Imma Be,The Black Eyed Peas,1,11,21,15,False,2010-05-04,spotify:track:4EN6UosT26XBMgkI9eA48U
+62112,Over,Drake,16,20,7,16,False,2010-05-04,spotify:track:6BdgtqiV3oXNqBikezwdvC
+62113,TiK ToK,Ke$ha,1,18,29,17,False,2010-05-04,spotify:track:0HPD5WQqrq7wPWR7P7Dw1i
+62114,Say Aah,Trey Songz Featuring Fabolous,9,15,24,18,False,2010-05-04,spotify:track:2fQ6sBFWaLv2Gxos4igHLy
+62115,Carry Out,Timbaland Featuring Justin Timberlake,11,19,21,19,False,2010-05-04,spotify:track:2DHc2e5bBn4UzY0ENVFrUl
+62116,Alejandro,Lady Gaga,20,28,4,20,False,2010-05-04,spotify:track:4lwavw59UjXUPJZtKNdFYp
+62117,Baby,Justin Bieber Featuring Ludacris,5,16,14,21,False,2010-05-04,spotify:track:78QR3Wp35dqAhFEc2qAGjE
+62118,All The Right Moves,OneRepublic,18,22,29,22,False,2010-05-04,spotify:track:5XRHGXut00SrJUFmcn2lQF
+62119,I Made It (Cash Money Heroes),"Kevin Rudolf Featuring Birdman, Jay Sean, & Lil Wayne",23,26,12,23,False,2010-05-04,spotify:track:6H2wnX7ytNeCKERIVqCwgs
+62120,BedRock,Young Money Featuring Lloyd,2,21,22,24,False,2010-05-04,spotify:track:3iL2l5gUqyPS6vDwJFgJTR
+62121,American Honey,Lady Antebellum,25,27,15,25,False,2010-05-04,spotify:track:4xInIiKipU1mtUogJ3ZdYr
+62197,OMG,Usher Featuring will.i.am,1,1,8,1,False,2010-06-04,spotify:track:65FftemJ1DbbZ45DUfHJXE
+62198,Airplanes,B.o.B Featuring Hayley Williams,2,3,6,2,False,2010-06-04,spotify:track:6lV2MSQmRIkycDScNtrBXO
+62199,California Gurls,Katy Perry Featuring Snoop Dogg,2,2,2,3,False,2010-06-04,spotify:track:6KOEK6SeCEZOQkLj5M1PxH
+62200,Break Your Heart,Taio Cruz Featuring Ludacris,1,5,13,4,False,2010-06-04,spotify:track:0Nu9WA8kEbBWEsay2s8Q0U
+62201,Nothin' On You,B.o.B Featuring Bruno Mars,1,4,17,5,False,2010-06-04,spotify:track:59dLtGBS26x7kc0rHbaPrq
+62202,Alejandro,Lady Gaga,6,8,8,6,False,2010-06-04,spotify:track:4lwavw59UjXUPJZtKNdFYp
+62203,Your Love Is My Drug,Ke$ha,7,7,15,7,False,2010-06-04,spotify:track:2DKE0fl2pO9dkljuupQZb5
+62204,Can't Be Tamed,Miley Cyrus,8,0,1,8,True,2010-06-04,spotify:track:6wVnBzgBptzUHarPsVfZju
+62205,Not Afraid,Eminem,1,6,3,9,False,2010-06-04,spotify:track:7Ie9W94M7OjPoZVV216Xus
+62206,Rude Boy,Rihanna,1,9,15,10,False,2010-06-04,spotify:track:60jzFy6Nn4M0iD1d94oteF
+62207,"Hey, Soul Sister",Train,3,10,34,11,False,2010-06-04,spotify:track:4HlFJV71xXKIGcU3kRyttv
+62208,Young Forever,Jay-Z + Mr. Hudson,10,11,19,12,False,2010-06-04,spotify:track:35srNkJVToAzYiZzron1FY
+62209,Need You Now,Lady Antebellum,2,12,41,13,False,2010-06-04,spotify:track:11EX5yhxr9Ihl3IN1asrfK
+62210,Bulletproof,La Roux,14,19,12,14,False,2010-06-04,spotify:track:3kMrazSvILsgcwtidZd1Qd
+62211,In My Head,Jason Derulo,5,13,24,15,False,2010-06-04,spotify:track:5BoIP8Eha5hwmRVURkC2Us
+62212,Billionaire,Travie McCoy Featuring Bruno Mars,16,18,8,16,False,2010-06-04,spotify:track:2qPUnoasNe4Ep43emVXEig
+62213,Breakeven,The Script,12,16,25,17,False,2010-06-04,spotify:track:285hMzLhJwHVLe9QT9qilk
+62214,My Chick Bad,Ludacris Featuring Nicki Minaj,11,14,13,18,False,2010-06-04,spotify:track:3bMNprrp2JDKZsGbiXpsJl
+62215,Over,Drake,14,15,11,19,False,2010-06-04,spotify:track:6BdgtqiV3oXNqBikezwdvC
+62216,Find Your Love,Drake,20,20,3,20,False,2010-06-04,spotify:track:4BycRneKmOs6MhYG9THsuX
+62217,Rock That Body,The Black Eyed Peas,21,24,4,21,False,2010-06-04,spotify:track:6oB2Efp3Puu1FG7YcsStBV
+62218,Telephone,Lady Gaga Featuring Beyonce,3,17,26,22,False,2010-06-04,spotify:track:0JIMT9gzLIIz0esKLyjbKf
+62219,Eenie Meenie,Sean Kingston & Justin Bieber,15,22,9,23,False,2010-06-04,spotify:track:45O0tUN9Bh6LH4eNxQ07AT
+62220,Haven't Met You Yet,Michael Buble,24,26,34,24,False,2010-06-04,spotify:track:2MLzDZc223xseRi3EJumXr
+62221,TiK ToK,Ke$ha,1,25,33,25,False,2010-06-04,spotify:track:0HPD5WQqrq7wPWR7P7Dw1i
+62297,California Gurls,Katy Perry Featuring Snoop Dogg,1,1,7,1,False,2010-07-04,spotify:track:6KOEK6SeCEZOQkLj5M1PxH
+62298,Love The Way You Lie,Eminem Featuring Rihanna,2,0,1,2,True,2010-07-04,spotify:track:15JINEqzVMv3SvJTAXAKED
+62299,OMG,Usher Featuring will.i.am,1,2,13,3,False,2010-07-04,spotify:track:65FftemJ1DbbZ45DUfHJXE
+62300,Airplanes,B.o.B Featuring Hayley Williams,2,3,11,4,False,2010-07-04,spotify:track:6lV2MSQmRIkycDScNtrBXO
+62301,Billionaire,Travie McCoy Featuring Bruno Mars,4,4,13,5,False,2010-07-04,spotify:track:2qPUnoasNe4Ep43emVXEig
+62302,Find Your Love,Drake,5,5,8,6,False,2010-07-04,spotify:track:4BycRneKmOs6MhYG9THsuX
+62303,Cooler Than Me,Mike Posner,7,8,9,7,False,2010-07-04,spotify:track:2V4bv1fNWfTcyRJKmej6Sj
+62304,Your Love Is My Drug,Ke$ha,4,6,20,8,False,2010-07-04,spotify:track:2DKE0fl2pO9dkljuupQZb5
+62305,Alejandro,Lady Gaga,5,7,13,9,False,2010-07-04,spotify:track:4lwavw59UjXUPJZtKNdFYp
+62306,Ridin' Solo,Jason Derulo,10,16,13,10,False,2010-07-04,spotify:track:6BaxqcoEM9r3LXisTyJjST
+62307,Not Afraid,Eminem,1,9,8,11,False,2010-07-04,spotify:track:7Ie9W94M7OjPoZVV216Xus
+62308,Break Your Heart,Taio Cruz Featuring Ludacris,1,10,18,12,False,2010-07-04,spotify:track:0Nu9WA8kEbBWEsay2s8Q0U
+62309,Bulletproof,La Roux,8,12,17,13,False,2010-07-04,spotify:track:3kMrazSvILsgcwtidZd1Qd
+62310,Dynamite,Taio Cruz,14,31,4,14,False,2010-07-04,spotify:track:2CEgGE6aESpnmtfiZwYlbV
+62311,My First Kiss,3OH!3 Featuring Ke$ha,9,15,8,15,False,2010-07-04,spotify:track:17tDv8WA8IhqE8qzuQn707
+62312,"Hey, Soul Sister",Train,3,14,39,16,False,2010-07-04,spotify:track:4HlFJV71xXKIGcU3kRyttv
+62313,Nothin' On You,B.o.B Featuring Bruno Mars,1,13,22,17,False,2010-07-04,spotify:track:59dLtGBS26x7kc0rHbaPrq
+62314,Can't Be Tamed,Miley Cyrus,8,22,6,18,False,2010-07-04,spotify:track:6wVnBzgBptzUHarPsVfZju
+62315,Impossible,Shontelle,17,17,10,19,False,2010-07-04,spotify:track:1T8PwF3JhIiWwBhun23RNe
+62316,Rock That Body,The Black Eyed Peas,9,11,9,20,False,2010-07-04,spotify:track:6oB2Efp3Puu1FG7YcsStBV
+62317,Need You Now,Lady Antebellum,2,18,46,21,False,2010-07-04,spotify:track:11EX5yhxr9Ihl3IN1asrfK
+62318,I Like It,Enrique Iglesias Featuring Pitbull,22,26,7,22,False,2010-07-04,spotify:track:58q2HKrzhC3ozto2nDdN4z
+62319,No Love,Eminem Featuring Lil Wayne,23,0,1,23,True,2010-07-04,spotify:track:08SB2OtZkaliju77WYEKxk
+62320,Round & Round,Selena Gomez & The Scene,24,0,1,24,True,2010-07-04,spotify:track:5RhxBpoCwX2vLBcSJzYa5j
+62321,Somebody To Love,Justin Bieber Featuring Usher,25,33,7,25,False,2010-07-04,spotify:track:0WMmS5vdM7p9xMRtsJFGyG
+62397,Love The Way You Lie,Eminem Featuring Rihanna,1,1,5,1,False,2010-08-04,spotify:track:15JINEqzVMv3SvJTAXAKED
+62398,California Gurls,Katy Perry Featuring Snoop Dogg,1,2,11,2,False,2010-08-04,spotify:track:6KOEK6SeCEZOQkLj5M1PxH
+62399,Dynamite,Taio Cruz,3,4,8,3,False,2010-08-04,spotify:track:2CEgGE6aESpnmtfiZwYlbV
+62400,Airplanes,B.o.B Featuring Hayley Williams,2,3,15,4,False,2010-08-04,spotify:track:6lV2MSQmRIkycDScNtrBXO
+62401,Billionaire,Travie McCoy Featuring Bruno Mars,4,7,17,5,False,2010-08-04,spotify:track:2qPUnoasNe4Ep43emVXEig
+62402,I Like It,Enrique Iglesias Featuring Pitbull,6,8,11,6,False,2010-08-04,spotify:track:58q2HKrzhC3ozto2nDdN4z
+62403,Cooler Than Me,Mike Posner,6,6,13,7,False,2010-08-04,spotify:track:2V4bv1fNWfTcyRJKmej6Sj
+62404,OMG,Usher Featuring will.i.am,1,5,17,8,False,2010-08-04,spotify:track:65FftemJ1DbbZ45DUfHJXE
+62405,Find Your Love,Drake,5,9,12,9,False,2010-08-04,spotify:track:4BycRneKmOs6MhYG9THsuX
+62406,Ridin' Solo,Jason Derulo,9,10,17,10,False,2010-08-04,spotify:track:6BaxqcoEM9r3LXisTyJjST
+62407,Not Afraid,Eminem,1,11,12,11,False,2010-08-04,spotify:track:7Ie9W94M7OjPoZVV216Xus
+62408,DJ Got Us Fallin' In Love,Usher Featuring Pitbull,12,19,2,12,False,2010-08-04,spotify:track:5qxULZVAM943gPjtMaH5NX
+62409,Impossible,Shontelle,13,13,14,13,False,2010-08-04,spotify:track:1T8PwF3JhIiWwBhun23RNe
+62410,Your Love,Nicki Minaj,14,18,8,14,False,2010-08-04,spotify:track:1w6kG4Rc29m5EherbvpkF5
+62411,Bulletproof,La Roux,8,12,21,15,False,2010-08-04,spotify:track:3kMrazSvILsgcwtidZd1Qd
+62412,"Hey, Soul Sister",Train,3,17,43,16,False,2010-08-04,spotify:track:4HlFJV71xXKIGcU3kRyttv
+62413,Break Your Heart,Taio Cruz Featuring Ludacris,1,15,22,17,False,2010-08-04,spotify:track:0Nu9WA8kEbBWEsay2s8Q0U
+62414,Alejandro,Lady Gaga,5,14,17,18,False,2010-08-04,spotify:track:4lwavw59UjXUPJZtKNdFYp
+62415,Your Love Is My Drug,Ke$ha,4,16,24,19,False,2010-08-04,spotify:track:2DKE0fl2pO9dkljuupQZb5
+62416,Teenage Dream,Katy Perry,20,0,1,20,True,2010-08-04,spotify:track:5jzKL4BDMClWqRguW5qZvh
+62417,Misery,Maroon 5,21,28,5,21,False,2010-08-04,spotify:track:6KBYk8OFtod7brGuZ3Y67q
+62418,My First Kiss,3OH!3 Featuring Ke$ha,9,20,12,22,False,2010-08-04,spotify:track:17tDv8WA8IhqE8qzuQn707
+62419,Need You Now,Lady Antebellum,2,22,50,23,False,2010-08-04,spotify:track:11EX5yhxr9Ihl3IN1asrfK
+62420,Undo It,Carrie Underwood,23,24,13,24,False,2010-08-04,spotify:track:1Fo2N5iXRi37maMboaig7O
+62421,Un-Thinkable (I'm Ready),Alicia Keys,21,21,16,25,False,2010-08-04,spotify:track:4JOP8ELK6AaeySe7sKe996
+62497,Love The Way You Lie,Eminem Featuring Rihanna,1,1,9,1,False,2010-09-04,spotify:track:15JINEqzVMv3SvJTAXAKED
+62498,Dynamite,Taio Cruz,2,2,12,2,False,2010-09-04,spotify:track:2CEgGE6aESpnmtfiZwYlbV
+62499,Teenage Dream,Katy Perry,3,5,5,3,False,2010-09-04,spotify:track:5jzKL4BDMClWqRguW5qZvh
+62500,I Like It,Enrique Iglesias Featuring Pitbull,4,4,15,4,False,2010-09-04,spotify:track:58q2HKrzhC3ozto2nDdN4z
+62501,DJ Got Us Fallin' In Love,Usher Featuring Pitbull,5,7,6,5,False,2010-09-04,spotify:track:5qxULZVAM943gPjtMaH5NX
+62502,Right Above It,Lil Wayne Featuring Drake,6,0,1,6,True,2010-09-04,spotify:track:1kMuU3TNQvHbqvXCWBodmP
+62503,Cooler Than Me,Mike Posner,6,6,17,7,False,2010-09-04,spotify:track:2V4bv1fNWfTcyRJKmej6Sj
+62504,California Gurls,Katy Perry Featuring Snoop Dogg,1,3,15,8,False,2010-09-04,spotify:track:6KOEK6SeCEZOQkLj5M1PxH
+62505,Just The Way You Are,Bruno Mars,9,16,5,9,False,2010-09-04,spotify:track:7BqBn9nzAq8spo5e7cZ0dJ
+62506,Magic,B.o.B Featuring Rivers Cuomo,10,11,11,10,False,2010-09-04,spotify:track:0fv2KH6hac06J86hBUTcSf
+62507,Airplanes,B.o.B Featuring Hayley Williams,2,9,19,11,False,2010-09-04,spotify:track:6lV2MSQmRIkycDScNtrBXO
+62508,Just A Dream,Nelly,12,0,1,12,True,2010-09-04,spotify:track:3ZdJffjzJWFimSQyxgGIxN
+62509,Ridin' Solo,Jason Derulo,9,10,21,13,False,2010-09-04,spotify:track:6BaxqcoEM9r3LXisTyJjST
+62510,Mine,Taylor Swift,3,8,3,14,False,2010-09-04,spotify:track:0dBW6ZsW8skfvoRfgeerBF
+62511,Not Afraid,Eminem,1,14,16,15,False,2010-09-04,spotify:track:7Ie9W94M7OjPoZVV216Xus
+62512,Take It Off,Ke$ha,16,20,6,16,False,2010-09-04,spotify:track:5YT0DNi6fN4rzd0SX90VR8
+62513,Billionaire,Travie McCoy Featuring Bruno Mars,4,12,21,17,False,2010-09-04,spotify:track:2qPUnoasNe4Ep43emVXEig
+62514,Find Your Love,Drake,5,13,16,18,False,2010-09-04,spotify:track:4BycRneKmOs6MhYG9THsuX
+62515,Misery,Maroon 5,17,19,9,19,False,2010-09-04,spotify:track:6KBYk8OFtod7brGuZ3Y67q
+62516,OMG,Usher Featuring will.i.am,1,15,21,20,False,2010-09-04,spotify:track:65FftemJ1DbbZ45DUfHJXE
+62517,Club Can't Handle Me,Flo Rida Featuring David Guetta,18,18,8,21,False,2010-09-04,spotify:track:6ebkx7Q5tTxrCxKq4GYj0Y
+62518,Your Love,Nicki Minaj,14,17,12,22,False,2010-09-04,spotify:track:1w6kG4Rc29m5EherbvpkF5
+62519,Need You Now,Lady Antebellum,2,33,54,23,False,2010-09-04,spotify:track:11EX5yhxr9Ihl3IN1asrfK
+62520,The Only Exception,Paramore,24,24,13,24,False,2010-09-04,spotify:track:7JIuqL4ZqkpfGKQhYlrirs
+62521,Stuck Like Glue,Sugarland,20,26,4,25,False,2010-09-04,spotify:track:0JcKdUGNR7zI4jJDLyYXbi
+62597,Just The Way You Are,Bruno Mars,1,1,10,1,False,2010-10-04,spotify:track:7BqBn9nzAq8spo5e7cZ0dJ
+62598,Teenage Dream,Katy Perry,1,4,10,2,False,2010-10-04,spotify:track:5jzKL4BDMClWqRguW5qZvh
+62599,Love The Way You Lie,Eminem Featuring Rihanna,1,2,14,3,False,2010-10-04,spotify:track:15JINEqzVMv3SvJTAXAKED
+62600,DJ Got Us Fallin' In Love,Usher Featuring Pitbull,4,5,11,4,False,2010-10-04,spotify:track:5qxULZVAM943gPjtMaH5NX
+62601,Dynamite,Taio Cruz,2,6,17,5,False,2010-10-04,spotify:track:2CEgGE6aESpnmtfiZwYlbV
+62602,Like A G6,Far*East Movement Featuring Cataracs & Dev,6,10,7,6,False,2010-10-04,spotify:track:4DvhkX2ic4zWkQeWMwQ2qf
+62603,Just A Dream,Nelly,7,8,6,7,False,2010-10-04,spotify:track:3ZdJffjzJWFimSQyxgGIxN
+62604,Only Girl (In The World),Rihanna,3,3,3,8,False,2010-10-04,spotify:track:2ENexcMEMsYk0rVJigVD3i
+62605,I Like It,Enrique Iglesias Featuring Pitbull,4,7,20,9,False,2010-10-04,spotify:track:58q2HKrzhC3ozto2nDdN4z
+62606,Club Can't Handle Me,Flo Rida Featuring David Guetta,9,9,13,10,False,2010-10-04,spotify:track:6ebkx7Q5tTxrCxKq4GYj0Y
+62607,Mine,Taylor Swift,3,12,8,11,False,2010-10-04,spotify:track:0dBW6ZsW8skfvoRfgeerBF
+62608,Take It Off,Ke$ha,8,11,11,12,False,2010-10-04,spotify:track:5YT0DNi6fN4rzd0SX90VR8
+62609,Bottoms Up,Trey Songz Featuring Nicki Minaj,13,13,7,13,False,2010-10-04,spotify:track:4AYX69oFP3UOS1CFmV9UfO
+62610,Misery,Maroon 5,14,20,14,14,False,2010-10-04,spotify:track:6KBYk8OFtod7brGuZ3Y67q
+62611,Deuces,Chris Brown Featuring Tyga & Kevin McCall,15,19,13,15,False,2010-10-04,spotify:track:6wN4nT2qy3MQc098yL3Eu9
+62612,Cooler Than Me,Mike Posner,6,15,22,16,False,2010-10-04,spotify:track:2V4bv1fNWfTcyRJKmej6Sj
+62613,California Gurls,Katy Perry Featuring Snoop Dogg,1,17,20,17,False,2010-10-04,spotify:track:6KOEK6SeCEZOQkLj5M1PxH
+62614,Airplanes,B.o.B Featuring Hayley Williams,2,16,24,18,False,2010-10-04,spotify:track:6lV2MSQmRIkycDScNtrBXO
+62615,Not Afraid,Eminem,1,14,21,19,False,2010-10-04,spotify:track:7Ie9W94M7OjPoZVV216Xus
+62616,Magic,B.o.B Featuring Rivers Cuomo,10,18,16,20,False,2010-10-04,spotify:track:0fv2KH6hac06J86hBUTcSf
+62617,Empire State Of Mind,Glee Cast,21,0,1,21,True,2010-10-04,spotify:track:7pYVIpuFrH2cDMseplG8Jn
+62618,Animal,Neon Trees,22,22,17,22,False,2010-10-04,spotify:track:1fBl642IhJOE5U319Gy2Go
+62619,Telephone,Glee Cast,23,0,1,23,True,2010-10-04,spotify:track:1oqIgJpPpW9wwXcitli8EF
+62620,Secrets,OneRepublic,24,28,14,24,False,2010-10-04,spotify:track:1NhPKVLsHhFUHIOZ32QnS2
+62621,Hot Tottie,Usher Featuring Jay-Z,25,29,7,25,False,2010-10-04,spotify:track:1Vot6YSxInL52SGTN0XN9n
+62697,Like A G6,Far*East Movement Featuring Cataracs & Dev,1,1,11,1,False,2010-11-04,spotify:track:4DvhkX2ic4zWkQeWMwQ2qf
+62698,Just The Way You Are,Bruno Mars,1,2,14,2,False,2010-11-04,spotify:track:7BqBn9nzAq8spo5e7cZ0dJ
+62699,Only Girl (In The World),Rihanna,3,4,7,3,False,2010-11-04,spotify:track:2ENexcMEMsYk0rVJigVD3i
+62700,Just A Dream,Nelly,3,3,10,4,False,2010-11-04,spotify:track:3ZdJffjzJWFimSQyxgGIxN
+62701,DJ Got Us Fallin' In Love,Usher Featuring Pitbull,4,5,15,5,False,2010-11-04,spotify:track:5qxULZVAM943gPjtMaH5NX
+62702,Bottoms Up,Trey Songz Featuring Nicki Minaj,6,10,11,6,False,2010-11-04,spotify:track:4AYX69oFP3UOS1CFmV9UfO
+62703,Teenage Dream,Katy Perry,1,7,14,7,False,2010-11-04,spotify:track:5jzKL4BDMClWqRguW5qZvh
+62704,Dynamite,Taio Cruz,2,8,21,8,False,2010-11-04,spotify:track:2CEgGE6aESpnmtfiZwYlbV
+62705,Club Can't Handle Me,Flo Rida Featuring David Guetta,9,9,17,9,False,2010-11-04,spotify:track:6ebkx7Q5tTxrCxKq4GYj0Y
+62706,Raise Your Glass,P!nk,10,11,3,10,False,2010-11-04,spotify:track:1gv4xPanImH17bKZ9rOveR
+62707,Mean,Taylor Swift,11,0,1,11,True,2010-11-04,spotify:track:2XokCsD6kfP9HS345x9b8b
+62708,Love The Way You Lie,Eminem Featuring Rihanna,1,12,18,12,False,2010-11-04,spotify:track:15JINEqzVMv3SvJTAXAKED
+62709,Mine,Taylor Swift,3,14,12,13,False,2010-11-04,spotify:track:0dBW6ZsW8skfvoRfgeerBF
+62710,I Like It,Enrique Iglesias Featuring Pitbull,4,13,24,14,False,2010-11-04,spotify:track:58q2HKrzhC3ozto2nDdN4z
+62711,Animal,Neon Trees,15,15,21,15,False,2010-11-04,spotify:track:1fBl642IhJOE5U319Gy2Go
+62712,Deuces,Chris Brown Featuring Tyga & Kevin McCall,14,16,17,16,False,2010-11-04,spotify:track:6wN4nT2qy3MQc098yL3Eu9
+62713,F**k You! (Forget You),CeeLo Green,17,17,9,17,False,2010-11-04,spotify:track:5GvWrvLIqoHroq7YvO260M
+62714,No Hands,Waka Flocka Flame Featuring Roscoe Dash & Wale,18,22,7,18,False,2010-11-04,spotify:track:03tqyYWC9Um2ZqU0ZN849H
+62715,Please Don't Go,Mike Posner,19,34,5,19,False,2010-11-04,spotify:track:6jg5SRvdGxvJ0DzNV0UqEK
+62716,Right Above It,Lil Wayne Featuring Drake,6,20,10,20,False,2010-11-04,spotify:track:1kMuU3TNQvHbqvXCWBodmP
+62717,If I Die Young,The Band Perry,19,19,16,21,False,2010-11-04,spotify:track:4u26EevCNXMhlvE1xFBJwX
+62718,Take It Off,Ke$ha,8,18,15,22,False,2010-11-04,spotify:track:5YT0DNi6fN4rzd0SX90VR8
+62719,Stuck Like Glue,Sugarland,20,23,13,23,False,2010-11-04,spotify:track:0JcKdUGNR7zI4jJDLyYXbi
+62720,Secrets,OneRepublic,21,24,18,24,False,2010-11-04,spotify:track:1NhPKVLsHhFUHIOZ32QnS2
+62721,Check It Out,will.i.am & Nicki Minaj,25,28,7,25,False,2010-11-04,spotify:track:56H98l4uinRifnTH8e308N
+62797,Only Girl (In The World),Rihanna,1,2,11,1,False,2010-12-04,spotify:track:2ENexcMEMsYk0rVJigVD3i
+62798,Raise Your Glass,P!nk,2,4,7,2,False,2010-12-04,spotify:track:1gv4xPanImH17bKZ9rOveR
+62799,Like A G6,Far*East Movement Featuring Cataracs & Dev,1,1,15,3,False,2010-12-04,spotify:track:4DvhkX2ic4zWkQeWMwQ2qf
+62800,We R Who We R,Ke$ha,1,6,4,4,False,2010-12-04,spotify:track:1p4mnh4jOsO14XtD5zAjaB
+62801,Just A Dream,Nelly,3,5,14,5,False,2010-12-04,spotify:track:3ZdJffjzJWFimSQyxgGIxN
+62802,Firework,Katy Perry,6,9,5,6,False,2010-12-04,spotify:track:4r6eNCsrZnQWJzzvFh4nlg
+62803,Just The Way You Are,Bruno Mars,1,3,18,7,False,2010-12-04,spotify:track:7BqBn9nzAq8spo5e7cZ0dJ
+62804,What's My Name?,Rihanna Featuring Drake,1,7,5,8,False,2010-12-04,spotify:track:6DkXLzBQT7cwXmTyzAB1DJ
+62805,F**k You! (Forget You),CeeLo Green,9,22,13,9,False,2010-12-04,spotify:track:5GvWrvLIqoHroq7YvO260M
+62806,Bottoms Up,Trey Songz Featuring Nicki Minaj,6,10,15,10,False,2010-12-04,spotify:track:4AYX69oFP3UOS1CFmV9UfO
+62807,Forget You,Glee Cast Featuring Gwyneth Paltrow,11,0,1,11,True,2010-12-04,spotify:track:3fH4KjXFYMmljxrcGrbPj9
+62808,DJ Got Us Fallin' In Love,Usher Featuring Pitbull,4,11,19,12,False,2010-12-04,spotify:track:5qxULZVAM943gPjtMaH5NX
+62809,The Time (Dirty Bit),The Black Eyed Peas,12,12,2,13,False,2010-12-04,spotify:track:4Z41MN53XAqSsCHoGiebZn
+62810,Dynamite,Taio Cruz,2,14,25,14,False,2010-12-04,spotify:track:2CEgGE6aESpnmtfiZwYlbV
+62811,Teenage Dream,Katy Perry,1,13,18,15,False,2010-12-04,spotify:track:5jzKL4BDMClWqRguW5qZvh
+62812,Animal,Neon Trees,13,15,25,16,False,2010-12-04,spotify:track:1fBl642IhJOE5U319Gy2Go
+62813,Grenade,Bruno Mars,17,30,8,17,False,2010-12-04,spotify:track:2tJulUYLDKOg9XrtVkMgcJ
+62814,Singing In The Rain / Umbrella,Glee Cast Featuring Gwyneth Paltrow,18,0,1,18,True,2010-12-04,spotify:track:1v3RJ3mtHllca29JVi12OB
+62815,Club Can't Handle Me,Flo Rida Featuring David Guetta,9,16,21,19,False,2010-12-04,spotify:track:6ebkx7Q5tTxrCxKq4GYj0Y
+62816,Please Don't Go,Mike Posner,17,19,9,20,False,2010-12-04,spotify:track:6jg5SRvdGxvJ0DzNV0UqEK
+62817,I Like It,Enrique Iglesias Featuring Pitbull,4,21,28,21,False,2010-12-04,spotify:track:58q2HKrzhC3ozto2nDdN4z
+62818,Whip My Hair,WILLOW,11,18,5,22,False,2010-12-04,spotify:track:4Dio1t8RHzLv1nfPJTSZyP
+62819,No Hands,Waka Flocka Flame Featuring Roscoe Dash & Wale,18,25,11,23,False,2010-12-04,spotify:track:03tqyYWC9Um2ZqU0ZN849H
+62820,Secrets,OneRepublic,21,26,22,24,False,2010-12-04,spotify:track:1NhPKVLsHhFUHIOZ32QnS2
+62821,Black And Yellow,Wiz Khalifa,25,29,7,25,False,2010-12-04,spotify:track:5A6OHHy73AR5tLxgTc98zz
+62897,Grenade,Bruno Mars,1,2,13,1,False,2011-01-04,spotify:track:2tJulUYLDKOg9XrtVkMgcJ
+62898,Firework,Katy Perry,1,1,10,2,False,2011-01-04,spotify:track:4r6eNCsrZnQWJzzvFh4nlg
+62899,We R Who We R,Ke$ha,1,5,9,3,False,2011-01-04,spotify:track:1p4mnh4jOsO14XtD5zAjaB
+62900,What's My Name?,Rihanna Featuring Drake,1,3,10,4,False,2011-01-04,spotify:track:6DkXLzBQT7cwXmTyzAB1DJ
+62901,Raise Your Glass,P!nk,1,4,12,5,False,2011-01-04,spotify:track:1gv4xPanImH17bKZ9rOveR
+62902,Black And Yellow,Wiz Khalifa,6,12,12,6,False,2011-01-04,spotify:track:5A6OHHy73AR5tLxgTc98zz
+62903,Tonight (I'm Lovin' You),Enrique Iglesias Featuring Ludacris & DJ Frank E,7,13,5,7,False,2011-01-04,spotify:track:79R98MwYRcQZdAzjjzUbiX
+62904,Bottoms Up,Trey Songz Featuring Nicki Minaj,6,11,20,8,False,2011-01-04,spotify:track:4AYX69oFP3UOS1CFmV9UfO
+62905,The Time (Dirty Bit),The Black Eyed Peas,4,8,7,9,False,2011-01-04,spotify:track:4Z41MN53XAqSsCHoGiebZn
+62906,Just The Way You Are,Bruno Mars,1,6,23,10,False,2011-01-04,spotify:track:7BqBn9nzAq8spo5e7cZ0dJ
+62907,6 Foot 7 Foot,Lil Wayne Featuring Cory Gunz,9,9,2,11,False,2011-01-04,spotify:track:5Qy6a5KzM4XlRxsNcGYhgH
+62908,Just A Dream,Nelly,3,10,19,12,False,2011-01-04,spotify:track:3ZdJffjzJWFimSQyxgGIxN
+62909,Only Girl (In The World),Rihanna,1,7,16,13,False,2011-01-04,spotify:track:2ENexcMEMsYk0rVJigVD3i
+62910,No Hands,Waka Flocka Flame Featuring Roscoe Dash & Wale,14,18,16,14,False,2011-01-04,spotify:track:03tqyYWC9Um2ZqU0ZN849H
+62911,Like A G6,Far*East Movement Featuring Cataracs & Dev,1,14,20,15,False,2011-01-04,spotify:track:4DvhkX2ic4zWkQeWMwQ2qf
+62912,Dynamite,Taio Cruz,2,17,30,16,False,2011-01-04,spotify:track:2CEgGE6aESpnmtfiZwYlbV
+62913,DJ Got Us Fallin' In Love,Usher Featuring Pitbull,4,15,24,17,False,2011-01-04,spotify:track:5qxULZVAM943gPjtMaH5NX
+62914,Coming Home,Diddy - Dirty Money Featuring Skylar Grey,18,19,5,18,False,2011-01-04,spotify:track:65GbQI9VDTs7vo6MJL2iJA
+62915,Yeah 3X,Chris Brown,19,20,9,19,False,2011-01-04,spotify:track:2QtxlzvSBONjs1bDC34ixs
+62916,Please Don't Go,Mike Posner,16,21,14,20,False,2011-01-04,spotify:track:6jg5SRvdGxvJ0DzNV0UqEK
+62917,Teenage Dream,Katy Perry,1,22,23,21,False,2011-01-04,spotify:track:5jzKL4BDMClWqRguW5qZvh
+62918,Stereo Love,Edward Maya & Vika Jigulina,16,16,12,22,False,2011-01-04,spotify:track:35Dofxo9smHVxmFQbhYIAT
+62919,Whip My Hair,WILLOW,11,35,10,23,False,2011-01-04,spotify:track:4Dio1t8RHzLv1nfPJTSZyP
+62920,Animal,Neon Trees,13,23,30,24,False,2011-01-04,spotify:track:1fBl642IhJOE5U319Gy2Go
+62921,Right Above It,Lil Wayne Featuring Drake,6,28,19,25,False,2011-01-04,spotify:track:1kMuU3TNQvHbqvXCWBodmP
+62997,Grenade,Bruno Mars,1,2,17,1,False,2011-02-04,spotify:track:2tJulUYLDKOg9XrtVkMgcJ
+62998,Firework,Katy Perry,1,3,14,2,False,2011-02-04,spotify:track:4r6eNCsrZnQWJzzvFh4nlg
+62999,Black And Yellow,Wiz Khalifa,3,5,16,3,False,2011-02-04,spotify:track:5A6OHHy73AR5tLxgTc98zz
+63000,Tonight (I'm Lovin' You),Enrique Iglesias Featuring Ludacris & DJ Frank E,4,6,9,4,False,2011-02-04,spotify:track:79R98MwYRcQZdAzjjzUbiX
+63001,What's My Name?,Rihanna Featuring Drake,1,4,14,5,False,2011-02-04,spotify:track:6DkXLzBQT7cwXmTyzAB1DJ
+63002,Hold It Against Me,Britney Spears,1,1,2,6,False,2011-02-04,spotify:track:7Dyq1bhhjknLKEGg4k5NLr
+63003,We R Who We R,Ke$ha,1,7,13,7,False,2011-02-04,spotify:track:1p4mnh4jOsO14XtD5zAjaB
+63004,Raise Your Glass,P!nk,1,8,16,8,False,2011-02-04,spotify:track:1gv4xPanImH17bKZ9rOveR
+63005,The Time (Dirty Bit),The Black Eyed Peas,4,9,11,9,False,2011-02-04,spotify:track:4Z41MN53XAqSsCHoGiebZn
+63006,Hey Baby (Drop It To The Floor),Pitbull Featuring T-Pain,10,20,17,10,False,2011-02-04,spotify:track:3rfhI32Il2hVRKDkuGeeen
+63007,F**kin' Perfect,P!nk,11,30,4,11,False,2011-02-04,spotify:track:3MGJF1CDFGfjXESL2Heva0
+63008,Just The Way You Are,Bruno Mars,1,10,27,12,False,2011-02-04,spotify:track:7BqBn9nzAq8spo5e7cZ0dJ
+63009,Coming Home,Diddy - Dirty Money Featuring Skylar Grey,13,19,9,13,False,2011-02-04,spotify:track:65GbQI9VDTs7vo6MJL2iJA
+63010,6 Foot 7 Foot,Lil Wayne Featuring Cory Gunz,9,11,6,14,False,2011-02-04,spotify:track:5Qy6a5KzM4XlRxsNcGYhgH
+63011,No Hands,Waka Flocka Flame Featuring Roscoe Dash & Wale,13,14,20,15,False,2011-02-04,spotify:track:03tqyYWC9Um2ZqU0ZN849H
+63012,Rocketeer,Far*East Movement Featuring Ryan Tedder,16,17,8,16,False,2011-02-04,spotify:track:45sDIKapDyxPl307QpEAwl
+63013,Yeah 3X,Chris Brown,15,15,13,17,False,2011-02-04,spotify:track:2QtxlzvSBONjs1bDC34ixs
+63014,Only Girl (In The World),Rihanna,1,12,20,18,False,2011-02-04,spotify:track:2ENexcMEMsYk0rVJigVD3i
+63015,Stereo Love,Edward Maya & Vika Jigulina,16,16,16,19,False,2011-02-04,spotify:track:35Dofxo9smHVxmFQbhYIAT
+63016,F**k You! (Forget You),CeeLo Green,9,22,22,20,False,2011-02-04,spotify:track:5GvWrvLIqoHroq7YvO260M
+63017,Dynamite,Taio Cruz,2,18,34,21,False,2011-02-04,spotify:track:2CEgGE6aESpnmtfiZwYlbV
+63018,Back To December,Taylor Swift,6,26,13,22,False,2011-02-04,spotify:track:3DrjZArsPsoqbLzUZZV1Id
+63019,Just A Dream,Nelly,3,21,23,23,False,2011-02-04,spotify:track:3ZdJffjzJWFimSQyxgGIxN
+63020,DJ Got Us Fallin' In Love,Usher Featuring Pitbull,4,25,28,24,False,2011-02-04,spotify:track:5qxULZVAM943gPjtMaH5NX
+63021,More,Usher,25,33,7,25,False,2011-02-04,spotify:track:0aBKFfdyOD1Ttvgv0cfjjJ
+63097,Born This Way,Lady Gaga,1,1,2,1,False,2011-03-04,spotify:track:6r2BECwMgEoRb5yLfp0Hca
+63098,F**k You! (Forget You),CeeLo Green,2,7,26,2,False,2011-03-04,spotify:track:5GvWrvLIqoHroq7YvO260M
+63099,Grenade,Bruno Mars,1,3,21,3,False,2011-03-04,spotify:track:2tJulUYLDKOg9XrtVkMgcJ
+63100,I Need A Doctor,Dr. Dre Featuring Eminem & Skylar Grey,4,32,3,4,False,2011-03-04,spotify:track:70ATm56tH7OrQ1zurYssz0
+63101,Firework,Katy Perry,1,2,18,5,False,2011-03-04,spotify:track:4r6eNCsrZnQWJzzvFh4nlg
+63102,F**kin' Perfect,P!nk,2,5,8,6,False,2011-03-04,spotify:track:3MGJF1CDFGfjXESL2Heva0
+63103,S&M,Rihanna Featuring Britney Spears,7,8,6,7,False,2011-03-04,spotify:track:7ySUcLPVX7KudhnmNcgY2D
+63104,Never Say Never,Justin Bieber Featuring Jaden Smith,8,25,10,8,False,2011-03-04,spotify:track:5GYbkDveRD2I8M5ZJ14hWn
+63105,Tonight (I'm Lovin' You),Enrique Iglesias Featuring Ludacris & DJ Frank E,4,6,13,9,False,2011-03-04,spotify:track:79R98MwYRcQZdAzjjzUbiX
+63106,Black And Yellow,Wiz Khalifa,1,4,20,10,False,2011-03-04,spotify:track:5A6OHHy73AR5tLxgTc98zz
+63107,Hold It Against Me,Britney Spears,1,10,6,11,False,2011-03-04,spotify:track:7Dyq1bhhjknLKEGg4k5NLr
+63108,What's My Name?,Rihanna Featuring Drake,1,13,18,12,False,2011-03-04,spotify:track:6DkXLzBQT7cwXmTyzAB1DJ
+63109,What The Hell,Avril Lavigne,11,11,6,13,False,2011-03-04,spotify:track:2z4U9d5OAA4YLNXoCgioxo
+63110,Just The Way You Are,Bruno Mars,1,15,31,14,False,2011-03-04,spotify:track:7BqBn9nzAq8spo5e7cZ0dJ
+63111,More,Usher,15,21,11,15,False,2011-03-04,spotify:track:0aBKFfdyOD1Ttvgv0cfjjJ
+63112,Rocketeer,Far*East Movement Featuring Ryan Tedder,7,14,12,16,False,2011-03-04,spotify:track:45sDIKapDyxPl307QpEAwl
+63113,Hey Baby (Drop It To The Floor),Pitbull Featuring T-Pain,7,12,21,17,False,2011-03-04,spotify:track:3rfhI32Il2hVRKDkuGeeen
+63114,Moment 4 Life,Nicki Minaj Featuring Drake,18,19,10,18,False,2011-03-04,spotify:track:1ia019RqDK2o4QiANR1Dyn
+63115,Yeah 3X,Chris Brown,15,22,17,19,False,2011-03-04,spotify:track:2QtxlzvSBONjs1bDC34ixs
+63116,6 Foot 7 Foot,Lil Wayne Featuring Cory Gunz,9,16,10,20,False,2011-03-04,spotify:track:5Qy6a5KzM4XlRxsNcGYhgH
+63117,Jar Of Hearts,Christina Perri,21,27,21,21,False,2011-03-04,spotify:track:0HZhYMZOcUzZKSFwPOti6m
+63118,Coming Home,Diddy - Dirty Money Featuring Skylar Grey,12,26,13,22,False,2011-03-04,spotify:track:65GbQI9VDTs7vo6MJL2iJA
+63119,Raise Your Glass,P!nk,1,17,20,23,False,2011-03-04,spotify:track:1gv4xPanImH17bKZ9rOveR
+63120,Back To December,Taylor Swift,6,24,17,24,False,2011-03-04,spotify:track:3DrjZArsPsoqbLzUZZV1Id
+63121,Down On Me,Jeremih Featuring 50 Cent,25,31,15,25,False,2011-03-04,spotify:track:0x3TibRgnSqzkcwrqBd4iX
+63197,E.T.,Katy Perry Featuring Kanye West,1,2,7,1,False,2011-04-04,spotify:track:26OmI3F6zTMFQfpJf9rLvs
+63198,S&M,Rihanna Featuring Britney Spears,2,3,11,2,False,2011-04-04,spotify:track:7ySUcLPVX7KudhnmNcgY2D
+63199,F**k You! (Forget You),CeeLo Green,2,4,31,3,False,2011-04-04,spotify:track:5GvWrvLIqoHroq7YvO260M
+63200,Born This Way,Lady Gaga,1,1,7,4,False,2011-04-04,spotify:track:6r2BECwMgEoRb5yLfp0Hca
+63201,Just Can't Get Enough,The Black Eyed Peas,5,5,6,5,False,2011-04-04,spotify:track:3irR8u6bJNsyNA6TWlFe0R
+63202,No Sleep,Wiz Khalifa,6,0,1,6,True,2011-04-04,spotify:track:2kzRSiyignH8yzPTrWvyPo
+63203,Look At Me Now,Chris Brown Featuring Lil Wayne & Busta Rhymes,7,8,8,7,False,2011-04-04,spotify:track:3hsmbFKT5Cujb5GQjqEU39
+63204,F**kin' Perfect,P!nk,2,7,13,8,False,2011-04-04,spotify:track:3MGJF1CDFGfjXESL2Heva0
+63205,Down On Me,Jeremih Featuring 50 Cent,9,10,20,9,False,2011-04-04,spotify:track:0x3TibRgnSqzkcwrqBd4iX
+63206,On The Floor,Jennifer Lopez Featuring Pitbull,5,13,5,10,False,2011-04-04,spotify:track:0w3Q14i073jLoew1hgJkwD
+63207,Blow,Ke$ha,7,11,10,11,False,2011-04-04,spotify:track:6OeGJKmvkUbBLeG1DuHiv6
+63208,Grenade,Bruno Mars,1,9,26,12,False,2011-04-04,spotify:track:2tJulUYLDKOg9XrtVkMgcJ
+63209,Tonight (I'm Lovin' You),Enrique Iglesias Featuring Ludacris & DJ Frank E,4,12,18,13,False,2011-04-04,spotify:track:79R98MwYRcQZdAzjjzUbiX
+63210,Firework,Katy Perry,1,15,23,14,False,2011-04-04,spotify:track:4r6eNCsrZnQWJzzvFh4nlg
+63211,Moment 4 Life,Nicki Minaj Featuring Drake,13,18,15,15,False,2011-04-04,spotify:track:1ia019RqDK2o4QiANR1Dyn
+63212,Hey Baby (Drop It To The Floor),Pitbull Featuring T-Pain,7,17,26,16,False,2011-04-04,spotify:track:3rfhI32Il2hVRKDkuGeeen
+63213,Rolling In The Deep,Adele,13,26,12,17,False,2011-04-04,spotify:track:1c8gk2PeTE04A1pIDH9YMk
+63214,Coming Home,Diddy - Dirty Money Featuring Skylar Grey,11,14,18,18,False,2011-04-04,spotify:track:65GbQI9VDTs7vo6MJL2iJA
+63215,I Need A Doctor,Dr. Dre Featuring Eminem & Skylar Grey,4,22,8,19,False,2011-04-04,spotify:track:70ATm56tH7OrQ1zurYssz0
+63216,More,Usher,15,20,16,20,False,2011-04-04,spotify:track:0aBKFfdyOD1Ttvgv0cfjjJ
+63217,Jar Of Hearts,Christina Perri,17,19,26,21,False,2011-04-04,spotify:track:0HZhYMZOcUzZKSFwPOti6m
+63218,Till The World Ends,Britney Spears Featuring Nicki Minaj & Ke$ha,9,23,4,22,False,2011-04-04,spotify:track:38iU2jg98IZZEIJPrP7aWD
+63219,What The Hell,Avril Lavigne,11,21,11,23,False,2011-04-04,spotify:track:2z4U9d5OAA4YLNXoCgioxo
+63220,Pretty Girl Rock,Keri Hilson,24,27,18,24,False,2011-04-04,spotify:track:2Adn2LNgkHMH5TelQVAu4n
+63221,All Of The Lights,Kanye West,25,25,13,25,False,2011-04-04,spotify:track:22L7bfCiAkJo5xGSQgmiIO
+63297,E.T.,Katy Perry Featuring Kanye West,1,2,11,1,False,2011-05-04,spotify:track:26OmI3F6zTMFQfpJf9rLvs
+63298,Rolling In The Deep,Adele,2,6,16,2,False,2011-05-04,spotify:track:1c8gk2PeTE04A1pIDH9YMk
+63299,Just Can't Get Enough,The Black Eyed Peas,3,3,10,3,False,2011-05-04,spotify:track:3irR8u6bJNsyNA6TWlFe0R
+63300,S&M,Rihanna Featuring Britney Spears,1,1,15,4,False,2011-05-04,spotify:track:7ySUcLPVX7KudhnmNcgY2D
+63301,Down On Me,Jeremih Featuring 50 Cent,4,4,24,5,False,2011-05-04,spotify:track:0x3TibRgnSqzkcwrqBd4iX
+63302,The Lazy Song,Bruno Mars,6,11,9,6,False,2011-05-04,spotify:track:1ExfPZEiahqhLyajhybFeS
+63303,On The Floor,Jennifer Lopez Featuring Pitbull,5,8,9,7,False,2011-05-04,spotify:track:0w3Q14i073jLoew1hgJkwD
+63304,Look At Me Now,Chris Brown Featuring Lil Wayne & Busta Rhymes,6,7,12,8,False,2011-05-04,spotify:track:3hsmbFKT5Cujb5GQjqEU39
+63305,Blow,Ke$ha,7,12,14,9,False,2011-05-04,spotify:track:6OeGJKmvkUbBLeG1DuHiv6
+63306,F**k You! (Forget You),CeeLo Green,2,5,35,10,False,2011-05-04,spotify:track:5GvWrvLIqoHroq7YvO260M
+63307,Till The World Ends,Britney Spears Featuring Nicki Minaj & Ke$ha,8,9,8,11,False,2011-05-04,spotify:track:38iU2jg98IZZEIJPrP7aWD
+63308,Judas,Lady Gaga,10,10,2,12,False,2011-05-04,spotify:track:0QkWikH5Z3U0f79T9iuF6c
+63309,Written In The Stars,Tinie Tempah Featuring Eric Turner,13,14,10,13,False,2011-05-04,spotify:track:61HQWI1Woxup7CnGwVUsdI
+63310,The Show Goes On,Lupe Fiasco,14,15,17,14,False,2011-05-04,spotify:track:4NTWZqvfQTlOMitlVn6tew
+63311,Born This Way,Lady Gaga,1,13,11,15,False,2011-05-04,spotify:track:6r2BECwMgEoRb5yLfp0Hca
+63312,I Need A Doctor,Dr. Dre Featuring Eminem & Skylar Grey,4,18,12,16,False,2011-05-04,spotify:track:70ATm56tH7OrQ1zurYssz0
+63313,Roll Up,Wiz Khalifa,17,21,11,17,False,2011-05-04,spotify:track:53DB6LJV9B8sz0p1s6tlGS
+63314,F**kin' Perfect,P!nk,2,16,17,18,False,2011-05-04,spotify:track:3MGJF1CDFGfjXESL2Heva0
+63315,Give Me Everything,"Pitbull Featuring Ne-Yo, Afrojack & Nayer",17,20,4,19,False,2011-05-04,spotify:track:1IJYb2qBTHMoDzHgsuA86H
+63316,All Of The Lights,Kanye West,19,19,17,20,False,2011-05-04,spotify:track:22L7bfCiAkJo5xGSQgmiIO
+63317,Moment 4 Life,Nicki Minaj Featuring Drake,13,17,19,21,False,2011-05-04,spotify:track:1ia019RqDK2o4QiANR1Dyn
+63318,Country Girl (Shake It For Me),Luke Bryan,22,0,1,22,True,2011-05-04,spotify:track:0JbSghVDghtFEurrSO8JrC
+63319,Price Tag,Jessie J Featuring B.o.B,23,24,12,23,False,2011-05-04,spotify:track:5mvKuE9Lf9ARVXVXA32kK9
+63320,Firework,Katy Perry,1,22,27,24,False,2011-05-04,spotify:track:4r6eNCsrZnQWJzzvFh4nlg
+63321,Who Says,Selena Gomez & The Scene,24,37,6,25,False,2011-05-04,spotify:track:3TcL0dyCMyr0kyTTc4NLgI
+63397,Rolling In The Deep,Adele,1,1,20,1,False,2011-06-04,spotify:track:1c8gk2PeTE04A1pIDH9YMk
+63398,E.T.,Katy Perry Featuring Kanye West,1,2,15,2,False,2011-06-04,spotify:track:26OmI3F6zTMFQfpJf9rLvs
+63399,Give Me Everything,"Pitbull Featuring Ne-Yo, Afrojack & Nayer",3,4,8,3,False,2011-06-04,spotify:track:1IJYb2qBTHMoDzHgsuA86H
+63400,Just Can't Get Enough,The Black Eyed Peas,3,5,14,4,False,2011-06-04,spotify:track:3irR8u6bJNsyNA6TWlFe0R
+63401,On The Floor,Jennifer Lopez Featuring Pitbull,3,6,13,5,False,2011-06-04,spotify:track:0w3Q14i073jLoew1hgJkwD
+63402,The Lazy Song,Bruno Mars,5,7,13,6,False,2011-06-04,spotify:track:1ExfPZEiahqhLyajhybFeS
+63403,Till The World Ends,Britney Spears Featuring Nicki Minaj & Ke$ha,3,8,12,7,False,2011-06-04,spotify:track:38iU2jg98IZZEIJPrP7aWD
+63404,Party Rock Anthem,LMFAO Featuring Lauren Bennett & GoonRock,8,20,9,8,False,2011-06-04,spotify:track:0IkKz2J93C94Ei4BvDop7P
+63405,The Show Goes On,Lupe Fiasco,9,12,21,9,False,2011-06-04,spotify:track:4NTWZqvfQTlOMitlVn6tew
+63406,Look At Me Now,Chris Brown Featuring Lil Wayne & Busta Rhymes,6,9,16,10,False,2011-06-04,spotify:track:3hsmbFKT5Cujb5GQjqEU39
+63407,Down On Me,Jeremih Featuring 50 Cent,4,10,28,11,False,2011-06-04,spotify:track:0x3TibRgnSqzkcwrqBd4iX
+63408,Hair,Lady Gaga,12,0,1,12,True,2011-06-04,spotify:track:2uk0YH2ahN0UE5jaCMa5jn
+63409,Roll Up,Wiz Khalifa,13,17,15,13,False,2011-06-04,spotify:track:53DB6LJV9B8sz0p1s6tlGS
+63410,S&M,Rihanna Featuring Britney Spears,1,11,19,14,False,2011-06-04,spotify:track:7ySUcLPVX7KudhnmNcgY2D
+63411,Super Bass,Nicki Minaj,15,22,4,15,False,2011-06-04,spotify:track:3hlksXnvbKogFdPbpO9vel
+63412,Written In The Stars,Tinie Tempah Featuring Eric Turner,12,16,14,16,False,2011-06-04,spotify:track:61HQWI1Woxup7CnGwVUsdI
+63413,F**k You! (Forget You),CeeLo Green,2,13,39,17,False,2011-06-04,spotify:track:5GvWrvLIqoHroq7YvO260M
+63414,Blow,Ke$ha,7,15,18,18,False,2011-06-04,spotify:track:6OeGJKmvkUbBLeG1DuHiv6
+63415,The Edge Of Glory,Lady Gaga,3,3,2,19,False,2011-06-04,spotify:track:5bdE4ddN4lknkXmvegBf2k
+63416,Dirty Dancer,Enrique Iglesias With Usher Featuring Lil Wayne,18,18,2,20,False,2011-06-04,spotify:track:1ciQU7ZQGHq129m3njp9en
+63417,Motivation,Kelly Rowland Featuring Lil Wayne,21,26,6,21,False,2011-06-04,spotify:track:0rIAC4PXANcKmitJfoqmVm
+63418,Just A Kiss,Lady Antebellum,7,14,3,22,False,2011-06-04,spotify:track:2OXidlnDThZR3zf36k6DVL
+63419,Honey Bee,Blake Shelton,13,25,7,23,False,2011-06-04,spotify:track:0gY2iq0xJPRoIB1PScKSw4
+63420,Born This Way,Lady Gaga,1,19,15,24,False,2011-06-04,spotify:track:6r2BECwMgEoRb5yLfp0Hca
+63421,F**kin' Perfect,P!nk,2,21,21,25,False,2011-06-04,spotify:track:3MGJF1CDFGfjXESL2Heva0
+63497,Give Me Everything,"Pitbull Featuring Ne-Yo, Afrojack & Nayer",1,2,13,1,False,2011-07-04,spotify:track:1IJYb2qBTHMoDzHgsuA86H
+63498,Rolling In The Deep,Adele,1,1,25,2,False,2011-07-04,spotify:track:1c8gk2PeTE04A1pIDH9YMk
+63499,Party Rock Anthem,LMFAO Featuring Lauren Bennett & GoonRock,3,3,14,3,False,2011-07-04,spotify:track:0IkKz2J93C94Ei4BvDop7P
+63500,Last Friday Night (T.G.I.F.),Katy Perry,4,4,5,4,False,2011-07-04,spotify:track:3avYqdwHKEq8beXbeWCKqJ
+63501,Super Bass,Nicki Minaj,5,8,9,5,False,2011-07-04,spotify:track:3hlksXnvbKogFdPbpO9vel
+63502,The Edge Of Glory,Lady Gaga,3,6,7,6,False,2011-07-04,spotify:track:5bdE4ddN4lknkXmvegBf2k
+63503,E.T.,Katy Perry Featuring Kanye West,1,5,20,7,False,2011-07-04,spotify:track:26OmI3F6zTMFQfpJf9rLvs
+63504,Moves Like Jagger,Maroon 5 Featuring Christina Aguilera,8,0,1,8,True,2011-07-04,spotify:track:7LcfRTgAVTs5pQGEQgUEzN
+63505,The Lazy Song,Bruno Mars,4,9,18,9,False,2011-07-04,spotify:track:1ExfPZEiahqhLyajhybFeS
+63506,How To Love,Lil Wayne,10,13,5,10,False,2011-07-04,spotify:track:5W7BcYDIaeXnpG3e39T7hJ
+63507,Dirt Road Anthem,Jason Aldean,7,7,12,11,False,2011-07-04,spotify:track:2qYsSHsYkihWx043HVJQRV
+63508,The Show Goes On,Lupe Fiasco,9,10,26,12,False,2011-07-04,spotify:track:4NTWZqvfQTlOMitlVn6tew
+63509,Tonight Tonight,Hot Chelle Rae,13,20,11,13,False,2011-07-04,spotify:track:2i0AUcEnsDm3dsqLrFWUCq
+63510,Just Can't Get Enough,The Black Eyed Peas,3,11,19,14,False,2011-07-04,spotify:track:3irR8u6bJNsyNA6TWlFe0R
+63511,Honey Bee,Blake Shelton,13,21,12,15,False,2011-07-04,spotify:track:0gY2iq0xJPRoIB1PScKSw4
+63512,On The Floor,Jennifer Lopez Featuring Pitbull,3,12,18,16,False,2011-07-04,spotify:track:0w3Q14i073jLoew1hgJkwD
+63513,Don't Wanna Go Home,Jason Derulo,14,14,6,17,False,2011-07-04,spotify:track:6aeuHtH6TOzzpKZP4PxFGV
+63514,Good Life,OneRepublic,16,17,13,18,False,2011-07-04,spotify:track:6OtCIsQZ64Vs1EbzztvAv4
+63515,Till The World Ends,Britney Spears Featuring Nicki Minaj & Ke$ha,3,15,17,19,False,2011-07-04,spotify:track:38iU2jg98IZZEIJPrP7aWD
+63516,I'm On One,"DJ Khaled Featuring Drake, Rick Ross & Lil Wayne",10,19,6,20,False,2011-07-04,spotify:track:7EHOorGNbnzDGmJDFVOhcJ
+63517,Who Says,Selena Gomez & The Scene,21,22,15,21,False,2011-07-04,spotify:track:3TcL0dyCMyr0kyTTc4NLgI
+63518,Look At Me Now,Chris Brown Featuring Lil Wayne & Busta Rhymes,6,18,21,22,False,2011-07-04,spotify:track:3hsmbFKT5Cujb5GQjqEU39
+63519,Motivation,Kelly Rowland Featuring Lil Wayne,21,24,11,23,False,2011-07-04,spotify:track:0rIAC4PXANcKmitJfoqmVm
+63520,Knee Deep,Zac Brown Band Featuring Jimmy Buffett,24,27,7,24,False,2011-07-04,spotify:track:60IGhnH20N82dNxKnc8jDd
+63521,Roll Up,Wiz Khalifa,13,23,20,25,False,2011-07-04,spotify:track:53DB6LJV9B8sz0p1s6tlGS
+63597,Party Rock Anthem,LMFAO Featuring Lauren Bennett & GoonRock,1,1,18,1,False,2011-08-04,spotify:track:0IkKz2J93C94Ei4BvDop7P
+63598,Last Friday Night (T.G.I.F.),Katy Perry,2,3,9,2,False,2011-08-04,spotify:track:3avYqdwHKEq8beXbeWCKqJ
+63599,Give Me Everything,"Pitbull Featuring Ne-Yo, Afrojack & Nayer",1,2,17,3,False,2011-08-04,spotify:track:1IJYb2qBTHMoDzHgsuA86H
+63600,Super Bass,Nicki Minaj,4,5,13,4,False,2011-08-04,spotify:track:3hlksXnvbKogFdPbpO9vel
+63601,Rolling In The Deep,Adele,1,4,29,5,False,2011-08-04,spotify:track:1c8gk2PeTE04A1pIDH9YMk
+63602,How To Love,Lil Wayne,6,6,9,6,False,2011-08-04,spotify:track:5W7BcYDIaeXnpG3e39T7hJ
+63603,Tonight Tonight,Hot Chelle Rae,7,9,15,7,False,2011-08-04,spotify:track:2i0AUcEnsDm3dsqLrFWUCq
+63604,The Edge Of Glory,Lady Gaga,3,7,11,8,False,2011-08-04,spotify:track:5bdE4ddN4lknkXmvegBf2k
+63605,Good Life,OneRepublic,8,8,17,9,False,2011-08-04,spotify:track:6OtCIsQZ64Vs1EbzztvAv4
+63606,Lighters,Bad Meets Evil Featuring Bruno Mars,10,17,6,10,False,2011-08-04,spotify:track:5zpDHEU12zATwLGvozxPw2
+63607,I Wanna Go,Britney Spears,11,13,7,11,False,2011-08-04,spotify:track:5cCAZS9VhLGEDV4NCfieeg
+63608,Dirt Road Anthem,Jason Aldean,7,11,16,12,False,2011-08-04,spotify:track:2qYsSHsYkihWx043HVJQRV
+63609,I'm On One,"DJ Khaled Featuring Drake, Rick Ross & Lil Wayne",10,14,10,13,False,2011-08-04,spotify:track:7EHOorGNbnzDGmJDFVOhcJ
+63610,E.T.,Katy Perry Featuring Kanye West,1,12,24,14,False,2011-08-04,spotify:track:26OmI3F6zTMFQfpJf9rLvs
+63611,If I Die Young,The Band Perry,15,23,35,15,False,2011-08-04,spotify:track:4u26EevCNXMhlvE1xFBJwX
+63612,Don't Wanna Go Home,Jason Derulo,14,18,10,16,False,2011-08-04,spotify:track:6aeuHtH6TOzzpKZP4PxFGV
+63613,Motivation,Kelly Rowland Featuring Lil Wayne,17,20,15,17,False,2011-08-04,spotify:track:0rIAC4PXANcKmitJfoqmVm
+63614,Knee Deep,Zac Brown Band Featuring Jimmy Buffett,18,22,11,18,False,2011-08-04,spotify:track:60IGhnH20N82dNxKnc8jDd
+63615,Best Thing I Never Had,Beyonce,19,25,8,19,False,2011-08-04,spotify:track:3lBRNqXjPp2j3JMTCXDTNO
+63616,The Lazy Song,Bruno Mars,4,15,22,20,False,2011-08-04,spotify:track:1ExfPZEiahqhLyajhybFeS
+63617,Just Can't Get Enough,The Black Eyed Peas,3,19,23,21,False,2011-08-04,spotify:track:3irR8u6bJNsyNA6TWlFe0R
+63618,The Show Goes On,Lupe Fiasco,9,16,30,22,False,2011-08-04,spotify:track:4NTWZqvfQTlOMitlVn6tew
+63619,Just A Kiss,Lady Antebellum,7,24,12,23,False,2011-08-04,spotify:track:2OXidlnDThZR3zf36k6DVL
+63620,Honey Bee,Blake Shelton,13,21,16,24,False,2011-08-04,spotify:track:0gY2iq0xJPRoIB1PScKSw4
+63621,On The Floor,Jennifer Lopez Featuring Pitbull,3,26,22,25,False,2011-08-04,spotify:track:0w3Q14i073jLoew1hgJkwD
+63697,Moves Like Jagger,Maroon 5 Featuring Christina Aguilera,1,4,10,1,False,2011-09-04,spotify:track:7LcfRTgAVTs5pQGEQgUEzN
+63698,Party Rock Anthem,LMFAO Featuring Lauren Bennett & GoonRock,1,2,23,2,False,2011-09-04,spotify:track:0IkKz2J93C94Ei4BvDop7P
+63699,Pumped Up Kicks,Foster The People,3,7,18,3,False,2011-09-04,spotify:track:7w87IxuO7BDcJ3YUqCyMTT
+63700,Lighters,Bad Meets Evil Featuring Bruno Mars,4,6,11,4,False,2011-09-04,spotify:track:5zpDHEU12zATwLGvozxPw2
+63701,Last Friday Night (T.G.I.F.),Katy Perry,1,1,14,5,False,2011-09-04,spotify:track:3avYqdwHKEq8beXbeWCKqJ
+63702,Super Bass,Nicki Minaj,3,5,18,6,False,2011-09-04,spotify:track:3hlksXnvbKogFdPbpO9vel
+63703,How To Love,Lil Wayne,5,8,14,7,False,2011-09-04,spotify:track:5W7BcYDIaeXnpG3e39T7hJ
+63704,Good Life,OneRepublic,8,9,22,8,False,2011-09-04,spotify:track:6OtCIsQZ64Vs1EbzztvAv4
+63705,Give Me Everything,"Pitbull Featuring Ne-Yo, Afrojack & Nayer",1,11,22,9,False,2011-09-04,spotify:track:1IJYb2qBTHMoDzHgsuA86H
+63706,Stereo Hearts,Gym Class Heroes Featuring Adam Levine,10,15,11,10,False,2011-09-04,spotify:track:0qOnSQQF0yzuPWsXrQ9paz
+63707,Cheers (Drink To That),Rihanna,11,17,5,11,False,2011-09-04,spotify:track:46MDLc0Yip6xCMSsdePOAU
+63708,I Wanna Go,Britney Spears,7,10,12,12,False,2011-09-04,spotify:track:5cCAZS9VhLGEDV4NCfieeg
+63709,Tonight Tonight,Hot Chelle Rae,7,12,20,13,False,2011-09-04,spotify:track:2i0AUcEnsDm3dsqLrFWUCq
+63710,Rolling In The Deep,Adele,1,13,34,14,False,2011-09-04,spotify:track:1c8gk2PeTE04A1pIDH9YMk
+63711,If I Die Young,The Band Perry,14,14,40,15,False,2011-09-04,spotify:track:4u26EevCNXMhlvE1xFBJwX
+63712,You And I,Lady Gaga,16,35,4,16,False,2011-09-04,spotify:track:6rkAY9rk1NTFB94QxG3LJR
+63713,She Will,Lil Wayne Featuring Drake,3,3,2,17,False,2011-09-04,spotify:track:0b4M7hd7mzLTm99MrMeZsp
+63714,You Make Me Feel...,Cobra Starship Featuring Sabi,18,19,7,18,False,2011-09-04,spotify:track:16Of7eeW44kt0a1M0nitHM
+63715,Someone Like You,Adele,19,34,8,19,False,2011-09-04,spotify:track:1zwMYTA5nlNjZxYrvBB2pV
+63716,I'm On One,"DJ Khaled Featuring Drake, Rick Ross & Lil Wayne",10,18,15,20,False,2011-09-04,spotify:track:7EHOorGNbnzDGmJDFVOhcJ
+63717,The Edge Of Glory,Lady Gaga,3,16,16,21,False,2011-09-04,spotify:track:5bdE4ddN4lknkXmvegBf2k
+63718,Remind Me,Brad Paisley Duet With Carrie Underwood,17,20,12,22,False,2011-09-04,spotify:track:0gmbgwZ8iqyMPmXefof8Yf
+63719,Motivation,Kelly Rowland Featuring Lil Wayne,17,23,20,23,False,2011-09-04,spotify:track:0rIAC4PXANcKmitJfoqmVm
+63720,Barefoot Blue Jean Night,Jake Owen,24,26,18,24,False,2011-09-04,spotify:track:3ts6xK5GzfMAAriT9AIBmP
+63721,Otis,Jay Z Kanye West Featuring Otis Redding,12,27,6,25,False,2011-09-04,spotify:track:6vegnfDS8DAEaCqWaPYGPy
+63797,Moves Like Jagger,Maroon 5 Featuring Christina Aguilera,1,1,14,1,False,2011-10-04,spotify:track:7LcfRTgAVTs5pQGEQgUEzN
+63798,Someone Like You,Adele,1,2,12,2,False,2011-10-04,spotify:track:1zwMYTA5nlNjZxYrvBB2pV
+63799,Pumped Up Kicks,Foster The People,3,3,22,3,False,2011-10-04,spotify:track:7w87IxuO7BDcJ3YUqCyMTT
+63800,Party Rock Anthem,LMFAO Featuring Lauren Bennett & GoonRock,1,4,27,4,False,2011-10-04,spotify:track:0IkKz2J93C94Ei4BvDop7P
+63801,Stereo Hearts,Gym Class Heroes Featuring Adam Levine,5,5,15,5,False,2011-10-04,spotify:track:0qOnSQQF0yzuPWsXrQ9paz
+63802,Lighters,Bad Meets Evil Featuring Bruno Mars,4,6,15,6,False,2011-10-04,spotify:track:5zpDHEU12zATwLGvozxPw2
+63803,Cheers (Drink To That),Rihanna,7,8,9,7,False,2011-10-04,spotify:track:46MDLc0Yip6xCMSsdePOAU
+63804,You And I,Lady Gaga,6,10,8,8,False,2011-10-04,spotify:track:6rkAY9rk1NTFB94QxG3LJR
+63805,You Make Me Feel...,Cobra Starship Featuring Sabi,7,7,11,9,False,2011-10-04,spotify:track:16Of7eeW44kt0a1M0nitHM
+63806,Sexy And I Know It,LMFAO,10,25,4,10,False,2011-10-04,spotify:track:0obBFrPYkSoBJbvHfUIhkv
+63807,Without You,David Guetta Featuring Usher,11,15,4,11,False,2011-10-04,spotify:track:1KMkcUvF7m3SDChDOa7i5L
+63808,Super Bass,Nicki Minaj,3,9,22,12,False,2011-10-04,spotify:track:3hlksXnvbKogFdPbpO9vel
+63809,Give Me Everything,"Pitbull Featuring Ne-Yo, Afrojack & Nayer",1,11,26,13,False,2011-10-04,spotify:track:1IJYb2qBTHMoDzHgsuA86H
+63810,How To Love,Lil Wayne,5,12,18,14,False,2011-10-04,spotify:track:5W7BcYDIaeXnpG3e39T7hJ
+63811,Last Friday Night (T.G.I.F.),Katy Perry,1,13,18,15,False,2011-10-04,spotify:track:3avYqdwHKEq8beXbeWCKqJ
+63812,We Found Love,Rihanna Featuring Calvin Harris,16,0,1,16,True,2011-10-04,spotify:track:6qn9YLKt13AGvpq9jfO8py
+63813,In The Dark,Dev,17,18,8,17,False,2011-10-04,spotify:track:1pbHy9VBpSyZh56xuujZz0
+63814,Good Life,OneRepublic,8,14,26,18,False,2011-10-04,spotify:track:6OtCIsQZ64Vs1EbzztvAv4
+63815,I Wanna Go,Britney Spears,7,17,16,19,False,2011-10-04,spotify:track:5cCAZS9VhLGEDV4NCfieeg
+63816,Tonight Tonight,Hot Chelle Rae,7,19,24,20,False,2011-10-04,spotify:track:2i0AUcEnsDm3dsqLrFWUCq
+63817,Just A Kiss,Lady Antebellum,7,32,21,21,False,2011-10-04,spotify:track:2OXidlnDThZR3zf36k6DVL
+63818,Rolling In The Deep,Adele,1,20,38,22,False,2011-10-04,spotify:track:1c8gk2PeTE04A1pIDH9YMk
+63819,Headlines,Drake,13,23,7,23,False,2011-10-04,spotify:track:6LxSe8YmdPxy095Ux6znaQ
+63820,It Girl,Jason Derulo,24,30,7,24,False,2011-10-04,spotify:track:4fINc8dnfcz7AdhFYVA4i7
+63821,God Gave Me You,Blake Shelton,24,24,11,25,False,2011-10-04,spotify:track:0w9LJae3sVlZlH2CnxTInF
+63897,Someone Like You,Adele,1,1,16,1,False,2011-11-04,spotify:track:1zwMYTA5nlNjZxYrvBB2pV
+63898,We Found Love,Rihanna Featuring Calvin Harris,2,6,5,2,False,2011-11-04,spotify:track:6qn9YLKt13AGvpq9jfO8py
+63899,Moves Like Jagger,Maroon 5 Featuring Christina Aguilera,1,2,18,3,False,2011-11-04,spotify:track:7LcfRTgAVTs5pQGEQgUEzN
+63900,Sexy And I Know It,LMFAO,4,4,8,4,False,2011-11-04,spotify:track:0obBFrPYkSoBJbvHfUIhkv
+63901,Pumped Up Kicks,Foster The People,3,3,26,5,False,2011-11-04,spotify:track:7w87IxuO7BDcJ3YUqCyMTT
+63902,Stereo Hearts,Gym Class Heroes Featuring Adam Levine,4,5,19,6,False,2011-11-04,spotify:track:0qOnSQQF0yzuPWsXrQ9paz
+63903,Without You,David Guetta Featuring Usher,7,7,8,7,False,2011-11-04,spotify:track:1KMkcUvF7m3SDChDOa7i5L
+63904,You Make Me Feel...,Cobra Starship Featuring Sabi,7,8,15,8,False,2011-11-04,spotify:track:16Of7eeW44kt0a1M0nitHM
+63905,Make Me Proud,Drake Featuring Nicki Minaj,9,97,2,9,False,2011-11-04,spotify:track:7yfg0Eer6UZZt5tZ1XdsWz
+63906,Party Rock Anthem,LMFAO Featuring Lauren Bennett & GoonRock,1,9,31,10,False,2011-11-04,spotify:track:0IkKz2J93C94Ei4BvDop7P
+63907,Mistletoe,Justin Bieber,11,0,1,11,True,2011-11-04,spotify:track:5stbsplW9uQqbIlOkilU1X
+63908,In The Dark,Dev,11,12,12,12,False,2011-11-04,spotify:track:1pbHy9VBpSyZh56xuujZz0
+63909,You And I,Lady Gaga,6,11,12,13,False,2011-11-04,spotify:track:6rkAY9rk1NTFB94QxG3LJR
+63910,Super Bass,Nicki Minaj,3,13,26,14,False,2011-11-04,spotify:track:3hlksXnvbKogFdPbpO9vel
+63911,Paradise,Coldplay,15,38,6,15,False,2011-11-04,spotify:track:6nek1Nin9q48AVZcWs9e9D
+63912,Headlines,Drake,13,15,11,16,False,2011-11-04,spotify:track:6LxSe8YmdPxy095Ux6znaQ
+63913,Give Me Everything,"Pitbull Featuring Ne-Yo, Afrojack & Nayer",1,14,30,17,False,2011-11-04,spotify:track:1IJYb2qBTHMoDzHgsuA86H
+63914,It Girl,Jason Derulo,17,17,11,18,False,2011-11-04,spotify:track:4fINc8dnfcz7AdhFYVA4i7
+63915,Mr. Know It All,Kelly Clarkson,18,24,7,19,False,2011-11-04,spotify:track:7uRznL3LcuazKpwCTpDltz
+63916,5 O'Clock,T-Pain Featuring Wiz Khalifa & Lily Allen,20,25,4,20,False,2011-11-04,spotify:track:07KYRDFf8Q6sqj4PWCP9vh
+63917,Ni**as in Paris,Jay Z Kanye West,21,27,11,21,False,2011-11-04,spotify:track:4Li2WHPkuyCdtmokzW2007
+63918,Lighters,Bad Meets Evil Featuring Bruno Mars,4,16,19,22,False,2011-11-04,spotify:track:5zpDHEU12zATwLGvozxPw2
+63919,She Will,Lil Wayne Featuring Drake,3,19,10,23,False,2011-11-04,spotify:track:0b4M7hd7mzLTm99MrMeZsp
+63920,Mr. Saxobeat,Alexandra Stan,21,21,15,24,False,2011-11-04,spotify:track:2ZAx6NDhX2yE5aL5ueEQgY
+63921,God Gave Me You,Blake Shelton,22,22,15,25,False,2011-11-04,spotify:track:0w9LJae3sVlZlH2CnxTInF
+63997,We Found Love,Rihanna Featuring Calvin Harris,1,1,10,1,False,2011-12-04,spotify:track:6qn9YLKt13AGvpq9jfO8py
+63998,Sexy And I Know It,LMFAO,2,2,13,2,False,2011-12-04,spotify:track:0obBFrPYkSoBJbvHfUIhkv
