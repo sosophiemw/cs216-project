@@ -1,6 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+Created on Sun Apr 23 12:11:12 2023
+
+@author: mcpenguin
+"""
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
 Created on Sat Apr  1 15:21:54 2023
 
 @author: mcpenguin
@@ -16,19 +23,15 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
-# plt.style.use("seaborn-whitegrid")
-# plt.rc("figure", autolayout=True)
-# plt.rc("axes", labelweight="bold", labelsize="large", titleweight="bold", titlesize=14, titlepad=10)
+#plt.style.use("seaborn-whitegrid")
+#plt.rc("figure", autolayout=True)
+#plt.rc("axes", labelweight="bold", labelsize="large", titleweight="bold", titlesize=14, titlepad=10)
 
-df = pd.read_csv('Top 100 most Streamed - Sheet1.csv')
+df = pd.read_csv('SpotifyTopSongsByCountry - May 2020.csv')
 
 df.head()
-list1=df["artist"]
-print(list1)
-
-# +
-# #!pip install musicbrainzngs
-# -
+list1=df["Artists"]
+#print(list1)
 
 ################ Music Brainz  Data
 import requests
@@ -38,7 +41,7 @@ import musicbrainzngs as mbz
 # https://realpython.com/api-integration-in-python/
 
 
-# https://python-musicbrainzngs.readthedocs.io/en/latest/api/
+#https://python-musicbrainzngs.readthedocs.io/en/latest/api/
 
 # REST API data access 
 api_url = 'https://musicbrainz.org/ws/2/'
@@ -56,18 +59,20 @@ response = requests.get(req4)
 app = "RecordIndustry.io"
 version = "0.1"
 mbz.set_useragent(app, version, contact=None)
-result = mbz.search_artists(artist="Queen", type="group",
-                                       country="California")
 
 
 
-# may be better if this is a dictionary: alas... it is not
+
+#may be better if this is a dictionary: alas... it is not
 
 def get_placedata(name_artist, begin_area_list, country_list):
     string=name_artist
     result=mbz.search_artists(query=string, limit=None, offset=None, strict=True)
-    artist=result['artist-list'][0]
-    print(artist)
+    try: 
+        artist=result['artist-list'][0]
+        print(artist)
+    except: 
+        artist="N/A"
     try:
         begin_area=(artist['begin-area']["name"])
     except:
@@ -86,7 +91,7 @@ begin_area_list=[]
 artist_list=[]
 
 
-for artist in df["artist"]:
+for artist in df["Artists"]:
     print(artist)
     begin_area_list, country_list=get_placedata(artist, begin_area_list, country_list)
     
@@ -96,18 +101,35 @@ for artist in df["artist"]:
 
 # PUT These Back into Dat_Frame From Above
 
-# May want to spot check that nothing weirdly got out of order
-# If anyone wants to get fancy...
+#May want to spot check that nothing weirdly got out of order
+#If anyone wants to get fancy...
 # may be better to make a dataframe based on the artist, and then merge these frames together, rather than code below
 
 df["country"]=country_list
-print(df.head())
 df["city"]=begin_area_list
 
-df.to_excel('raw_data.xls', index=False)
+
 
 ####GRAPHING:
 #Look, a GRAPH!
-country_counts=df.groupby("country")["artist"].count().reset_index(name ="counts")
+country_counts=df.groupby("country")["Artists"].count().reset_index(name ="counts")
 country_counts=country_counts.sort_values("counts", ascending=False)
 sns.barplot(data=country_counts, x="country", y="counts", color="blue")
+
+
+df.to_csv('country_data.csv', index=False) 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
