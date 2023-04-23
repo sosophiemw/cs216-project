@@ -53,6 +53,8 @@ for ind, label in enumerate(ax.get_xticklabels()):
 plt.legend(bbox_to_anchor=(1.02, 1), loc='upper left', borderaxespad=0)
 plt.show()
 
+# ## Is genre a good predictor for energy level of songs?
+
 # + endofcell="--"
 from sklearn.preprocessing import OneHotEncoder
 import numpy as np
