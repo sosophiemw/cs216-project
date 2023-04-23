@@ -19,11 +19,12 @@ df_energy = df[['date','energy','danceability', 'speechiness', 'acousticness', '
 #df_energy["year"]= df_energy["date"].apply(lambda x: datetime.date.fromisoformat(x).year)
 df_energy['year'] = df_energy['date'].str.slice(0,4)
 df_grouped = df_energy[['year','energy','danceability', 'speechiness', 'acousticness', 'tempo']]
+df_grouped['year'] = df_grouped['year'].astype(int)
+df_grouped = df_grouped[df_grouped['year'] >= 1970]
 df_grouped = df_grouped.groupby(['year']).mean()
-print(df_grouped)
 
-#sns.lineplot(df_grouped, x='year', y='energy')
-sns.lineplot(df_grouped, x='year', y='danceability')
+sns.lineplot(df_grouped, x='year', y='energy')
+#sns.lineplot(df_grouped, x='year', y='danceability')
 #sns.lineplot(df_grouped, x='year', y='speechiness')
 #sns.lineplot(df_grouped, x='year', y='acousticness')
 #sns.lineplot(df_grouped, x='year', y='tempo')
