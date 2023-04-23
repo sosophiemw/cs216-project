@@ -1,6 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+Created on Sun Apr 23 12:11:12 2023
+
+@author: mcpenguin
+"""
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
 Created on Sat Apr  1 15:21:54 2023
 
 @author: mcpenguin
@@ -20,10 +27,10 @@ import matplotlib.pyplot as plt
 #plt.rc("figure", autolayout=True)
 #plt.rc("axes", labelweight="bold", labelsize="large", titleweight="bold", titlesize=14, titlepad=10)
 
-df = pd.read_csv('Top 100 most Streamed - Sheet1.csv')
+df = pd.read_csv('SpotifyTopSongsByCountry - May 2020.csv')
 
 df.head()
-list1=df["artist"]
+list1=df["Artists"]
 #print(list1)
 
 ################ Music Brainz  Data
@@ -52,8 +59,7 @@ response = requests.get(req4)
 app = "RecordIndustry.io"
 version = "0.1"
 mbz.set_useragent(app, version, contact=None)
-result = mbz.search_artists(artist="Queen", type="group",
-                                       country="California")
+
 
 
 
@@ -62,8 +68,11 @@ result = mbz.search_artists(artist="Queen", type="group",
 def get_placedata(name_artist, begin_area_list, country_list):
     string=name_artist
     result=mbz.search_artists(query=string, limit=None, offset=None, strict=True)
-    artist=result['artist-list'][0]
-    print(artist)
+    try: 
+        artist=result['artist-list'][0]
+        print(artist)
+    except: 
+        artist="N/A"
     try:
         begin_area=(artist['begin-area']["name"])
     except:
@@ -82,7 +91,7 @@ begin_area_list=[]
 artist_list=[]
 
 
-for artist in df["artist"]:
+for artist in df["Artists"]:
     print(artist)
     begin_area_list, country_list=get_placedata(artist, begin_area_list, country_list)
     
@@ -99,16 +108,16 @@ for artist in df["artist"]:
 df["country"]=country_list
 df["city"]=begin_area_list
 
-df.to_excel('raw_data.xls', index=False)
+
 
 ####GRAPHING:
 #Look, a GRAPH!
-country_counts=df.groupby("country")["artist"].count().reset_index(name ="counts")
+country_counts=df.groupby("country")["Artists"].count().reset_index(name ="counts")
 country_counts=country_counts.sort_values("counts", ascending=False)
 sns.barplot(data=country_counts, x="country", y="counts", color="blue")
 
 
-    
+df.to_csv('country_data.csv', index=False) 
     
     
     
