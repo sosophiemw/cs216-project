@@ -1,2 +1,4 @@
 requests
 musicbrainzngs
+pandas
+seaborn
