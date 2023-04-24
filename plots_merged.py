@@ -37,6 +37,7 @@ df_genres_top5 = df_genres[(df_genres['genres'] == 'album rock') |
                            (df_genres['genres'] == 'contemporary r&b') |
                            (df_genres['genres'] == 'adult standards') |
                            (df_genres['genres'] == 'classic soul')]
+df_genres_top5['year'] = df_genres_top5['year'].astype(int)
 print(df_genres_top5)
 
 # ax = sns.lineplot(data = df_grouped, x='year', y='energy')
@@ -45,17 +46,16 @@ print(df_genres_top5)
 # ax = sns.lineplot(data = df_grouped, x='year', y='acousticness')
 # ax = sns.lineplot(data = df_grouped, x='year', y='tempo')
 
-#ax = sns.lineplot(data = df_genres_top5, x='year', y='energy', hues = 'genres')
-#ax = sns.lineplot(data = df_genres_top5, x='year', y='danceability', hues = 'genres')
-#ax = sns.lineplot(data = df_genres_top5, x='year', y='speechiness', hues = 'genres')
-#ax = sns.lineplot(data = df_genres_top5, x='year', y='acousticness', hues = 'genres')
-ax = sns.lineplot(data = df_genres_top5, x='year', y='tempo', hue = 'genres', ci = False)
-for ind, label in enumerate(ax.get_xticklabels()):
-    if ind % 5 == 0:  # every 5th label is kept
-        label.set_visible(True)
-    else:
-        label.set_visible(False)
-plt.legend(bbox_to_anchor=(1.02, 1), loc='upper left', borderaxespad=0)
+#ax = sns.relplot(data = df_genres_top5, x = 'year', y = 'energy', col = 'genres', ci = False, kind = 'line',
+#                hue = 'genres', height = 3)
+#ax = sns.relplot(data = df_genres_top5, x = 'year', y = 'danceability', col = 'genres', ci = False, kind = 'line',
+#                hue = 'genres', height = 3)
+#ax = sns.relplot(data = df_genres_top5, x = 'year', y = 'speechiness', col = 'genres', ci = False, kind = 'line',
+#                hue = 'genres', height = 3)
+#ax = sns.relplot(data = df_genres_top5, x = 'year', y = 'acousticness', col = 'genres', ci = False, kind = 'line',
+#                hue = 'genres', height = 3)
+#ax = sns.relplot(data = df_genres_top5, x = 'year', y = 'tempo', col = 'genres', ci = False, kind = 'line',
+#                hue = 'genres', height = 3)
 plt.show()
 
 # ## Is genre a good predictor for energy level of songs?
@@ -149,7 +149,6 @@ r2 = r2_score(test_target, predicted)
 df_plot = pd.DataFrame({'Actual': test_target, 'Predicted': predicted, 'Genre': test_data})
 sns.relplot(x='Actual', y='Predicted', hue='Genre', data=df_plot, alpha=0.5)
 
-# Add labels and title to the plot
 plt.xlabel("Actual values")
 plt.ylabel("Predicted values")
 plt.title("Predicted versus actual values by genre")
@@ -157,12 +156,10 @@ plt.show
 
 print("MSE:", mse, "r^2:", r2)
 
-# Define a baseline model that always predicts the mean value of the target variable
 dummy_model = DummyRegressor(strategy='mean')
 dummy_model.fit(X=cat_train, y=train_target)
 baseline_predicted = dummy_model.predict(cat_test)
 
-# Evaluate the baseline model using MSE and R-squared
 baseline_mse = mean_squared_error(test_target, baseline_predicted)
 baseline_r2 = r2_score(test_target, baseline_predicted)
 
