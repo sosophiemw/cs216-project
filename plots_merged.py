@@ -95,5 +95,78 @@ print('Model r^2 Baseline:', r2_baseline)
 
 # Here we are predicting energy of songs (target column) based on the categorical variable genre. We used OneHotEncoder because genres are nomial and not an ordinal variable. The model's MSE is extremely small and r^2 is 1, which means the model is able to use genre to predict energy of a song 100% of the time. This is a sign, the model may be overfitting the data, meaning it is fitting the noise or random fluctuations in the data instead of the underlying pattern. The model has a smaller MSE than the baseline model, indicating the model has better performance and better fit to the data. The r^2 of the baseline is 0, which is reasonable since it's predicting the mean energy of a song (a constant).
 
+# ## Model with training and testing sets
 
 
+# +
+from sklearn.metrics import mean_squared_error, r2_score
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import OneHotEncoder
+from sklearn.linear_model import LinearRegression
+import seaborn as sns
+from sklearn.dummy import DummyRegressor
+
+#df_model = df_energy[(df_energy['energy'].notna()) & (df_energy['genres'].notna())]
+#target = df_model['energy'].values
+#data = df_model['genres'].values
+
+#df_model = df_energy[(df_energy['danceability'].notna()) & (df_energy['genres'].notna())]
+#target = df_model['danceability'].values
+#data = df_model['genres'].values
+
+#df_model = df_energy[(df_energy['speechiness'].notna()) & (df_energy['genres'].notna())]
+#target = df_model['speechiness'].values
+#data = df_model['genres'].values
+
+#df_model = df_energy[(df_energy['acousticness'].notna()) & (df_energy['genres'].notna())]
+#target = df_model['acousticness'].values
+#data = df_model['genres'].values
+
+#df_model = df_energy[(df_energy['tempo'].notna()) & (df_energy['genres'].notna())]
+#target = df_model['tempo'].values
+#data = df_model['genres'].values
+
+df_model = df_model[(df_model['genres'] == 'album rock') |
+                    (df_model['genres'] == 'dance pop') |
+                    (df_model['genres'] == 'contemporary r&b') |
+                    (df_model['genres'] == 'adult standards') |
+                    (df_model['genres'] == 'classic soul')]
+
+train_data, test_data, train_target, test_target = train_test_split(
+    data, target, test_size=0.25, random_state=370)
+
+encoder = OneHotEncoder(handle_unknown='ignore')
+cat_train = encoder.fit_transform(train_data.reshape(-1, 1))
+cat_test = encoder.transform(test_data.reshape(-1, 1))
+
+linear_model = LinearRegression()
+linear_model.fit(X=cat_train, y=train_target)
+predicted = linear_model.predict(cat_test)
+
+mse = mean_squared_error(test_target, predicted)
+r2 = r2_score(test_target, predicted)
+
+# Create a seaborn plot with hue based on genre
+df_plot = pd.DataFrame({'Actual': test_target, 'Predicted': predicted, 'Genre': test_data})
+sns.relplot(x='Actual', y='Predicted', hue='Genre', data=df_plot, alpha=0.5)
+
+# Add labels and title to the plot
+plt.xlabel("Actual values")
+plt.ylabel("Predicted values")
+plt.title("Predicted versus actual values by genre")
+plt.show
+
+print("MSE:", mse, "r^2:", r2)
+
+# Define a baseline model that always predicts the mean value of the target variable
+dummy_model = DummyRegressor(strategy='mean')
+dummy_model.fit(X=cat_train, y=train_target)
+baseline_predicted = dummy_model.predict(cat_test)
+
+# Evaluate the baseline model using MSE and R-squared
+baseline_mse = mean_squared_error(test_target, baseline_predicted)
+baseline_r2 = r2_score(test_target, baseline_predicted)
+
+plt.scatter(test_target, baseline_predicted, color = 'orange')
+
+print("Baseline MSE:", baseline_mse, "Baseline r^2:", baseline_r2)
