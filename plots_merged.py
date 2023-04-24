@@ -146,7 +146,6 @@ predicted = linear_model.predict(cat_test)
 mse = mean_squared_error(test_target, predicted)
 r2 = r2_score(test_target, predicted)
 
-# Create a seaborn plot with hue based on genre
 df_plot = pd.DataFrame({'Actual': test_target, 'Predicted': predicted, 'Genre': test_data})
 sns.relplot(x='Actual', y='Predicted', hue='Genre', data=df_plot, alpha=0.5)
 
