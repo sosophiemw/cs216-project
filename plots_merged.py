@@ -32,13 +32,15 @@ df_grouped = df_grouped.rename(columns={'index': 'year'})
 print(df_grouped)
 
 df_genres = df_energy[['year', 'energy','danceability', 'speechiness', 'acousticness', 'tempo', 'genres']]
-df_genres_top5 = df_genres[(df_genres['genres'] == 'album rock') |
+#print(df_genres['genres'].value_counts().head(10))
+df_genres_top6 = df_genres[(df_genres['genres'] == 'album rock') |
                            (df_genres['genres'] == 'dance pop') |
                            (df_genres['genres'] == 'contemporary r&b') |
                            (df_genres['genres'] == 'adult standards') |
-                           (df_genres['genres'] == 'classic soul')]
-df_genres_top5['year'] = df_genres_top5['year'].astype(int)
-print(df_genres_top5)
+                           (df_genres['genres'] == 'classic soul') |
+                           (df_genres['genres'] == 'atl hip hop')]
+df_genres_top6['year'] = df_genres_top6['year'].astype(int)
+print(df_genres_top6)
 
 # ax = sns.lineplot(data = df_grouped, x='year', y='energy')
 # ax = sns.lineplot(data = df_grouped, x='year', y='danceability')
@@ -46,16 +48,16 @@ print(df_genres_top5)
 # ax = sns.lineplot(data = df_grouped, x='year', y='acousticness')
 # ax = sns.lineplot(data = df_grouped, x='year', y='tempo')
 
-#ax = sns.relplot(data = df_genres_top5, x = 'year', y = 'energy', col = 'genres', ci = False, kind = 'line',
+#ax = sns.relplot(data = df_genres_top6, x = 'year', y = 'energy', col = 'genres', ci = False, kind = 'line',
 #                hue = 'genres', height = 3)
-#ax = sns.relplot(data = df_genres_top5, x = 'year', y = 'danceability', col = 'genres', ci = False, kind = 'line',
+#ax = sns.relplot(data = df_genres_top6, x = 'year', y = 'danceability', col = 'genres', ci = False, kind = 'line',
 #                hue = 'genres', height = 3)
-#ax = sns.relplot(data = df_genres_top5, x = 'year', y = 'speechiness', col = 'genres', ci = False, kind = 'line',
+#ax = sns.relplot(data = df_genres_top6, x = 'year', y = 'speechiness', col = 'genres', ci = False, kind = 'line',
 #                hue = 'genres', height = 3)
-#ax = sns.relplot(data = df_genres_top5, x = 'year', y = 'acousticness', col = 'genres', ci = False, kind = 'line',
+#ax = sns.relplot(data = df_genres_top6, x = 'year', y = 'acousticness', col = 'genres', ci = False, kind = 'line',
 #                hue = 'genres', height = 3)
-#ax = sns.relplot(data = df_genres_top5, x = 'year', y = 'tempo', col = 'genres', ci = False, kind = 'line',
-#                hue = 'genres', height = 3)
+ax = sns.relplot(data = df_genres_top6, x = 'year', y = 'tempo', col = 'genres', ci = False, kind = 'line',
+                hue = 'genres', height = 4, col_wrap = 3, facet_kws=dict(sharex=False))
 plt.show()
 
 # ## Is genre a good predictor for energy level of songs?
@@ -130,7 +132,8 @@ df_model = df_model[(df_model['genres'] == 'album rock') |
                     (df_model['genres'] == 'dance pop') |
                     (df_model['genres'] == 'contemporary r&b') |
                     (df_model['genres'] == 'adult standards') |
-                    (df_model['genres'] == 'classic soul')]
+                    (df_model['genres'] == 'classic soul') |
+                    (df_model['genres'] == 'atl hip hop')]
 
 train_data, test_data, train_target, test_target = train_test_split(
     data, target, test_size=0.25, random_state=370)
