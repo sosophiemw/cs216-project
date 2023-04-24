@@ -16,12 +16,17 @@ feat_df = feat_df.apply(pd.Series)
 #print(feat_df)
 
 df = date_df.join(feat_df)
+
 df = df.join(genre_df)
 df_energy = df[['date','energy','danceability', 'speechiness', 'acousticness', 'tempo', 'genres']]
 df_energy["year"]= df_energy["date"].apply(lambda x: datetime.date.fromisoformat(x).year)
 df_energy['year'] = df_energy['date'].str.slice(0,4)
+
 df_grouped = df_energy[['year','energy','danceability', 'speechiness', 'acousticness', 'tempo']]
+df_grouped['year'] = pd.to_numeric(df_grouped['year'])
+df_grouped = df_grouped[df_grouped['year'] >= 1970]
 df_grouped = df_grouped.groupby(['year']).mean()
+
 df_grouped = df_grouped.reset_index()
 df_grouped = df_grouped.rename(columns={'index': 'year'})
 print(df_grouped)
@@ -89,5 +94,6 @@ print('Model r^2 Baseline:', r2_baseline)
 # --
 
 # Here we are predicting energy of songs (target column) based on the categorical variable genre. We used OneHotEncoder because genres are nomial and not an ordinal variable. The model's MSE is extremely small and r^2 is 1, which means the model is able to use genre to predict energy of a song 100% of the time. This is a sign, the model may be overfitting the data, meaning it is fitting the noise or random fluctuations in the data instead of the underlying pattern. The model has a smaller MSE than the baseline model, indicating the model has better performance and better fit to the data. The r^2 of the baseline is 0, which is reasonable since it's predicting the mean energy of a song (a constant).
+
 
 
