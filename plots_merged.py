@@ -42,23 +42,37 @@ df_genres_top6 = df_genres[(df_genres['genres'] == 'album rock') |
 df_genres_top6['year'] = df_genres_top6['year'].astype(int)
 print(df_genres_top6)
 
-# ax = sns.lineplot(data = df_grouped, x='year', y='energy')
-# ax = sns.lineplot(data = df_grouped, x='year', y='danceability')
-# ax = sns.lineplot(data = df_grouped, x='year', y='speechiness')
-# ax = sns.lineplot(data = df_grouped, x='year', y='acousticness')
-# ax = sns.lineplot(data = df_grouped, x='year', y='tempo')
 
-#ax = sns.relplot(data = df_genres_top6, x = 'year', y = 'energy', col = 'genres', ci = False, kind = 'line',
-#                hue = 'genres', height = 3)
+# +
+def add_coefficients(x, y, **kwargs):
+    """
+    Function to add regression coefficients to a plot.
+    """
+    # Fit a linear regression model to the data
+    slope, intercept = np.polyfit(x, y, 1)
+    
+    # Create a string to display the coefficients
+    label = "y = {:.3f}x + {:.3f}".format(slope, intercept)
+    
+    # Add the coefficients to the plot
+    ax = plt.gca()
+    ax.annotate(label, xy=(.1, .9), xycoords=ax.transAxes, fontsize=8, bbox=dict(facecolor='white', edgecolor='grey', alpha=0.8))
+
+ax = sns.relplot(data = df_genres_top6, x = 'year', y = 'energy', col = 'genres', ci = False, kind = 'line',
+                hue = 'genres', height = 3, col_wrap = 3, facet_kws=dict(sharex=False))
 #ax = sns.relplot(data = df_genres_top6, x = 'year', y = 'danceability', col = 'genres', ci = False, kind = 'line',
-#                hue = 'genres', height = 3)
+#                hue = 'genres', height = 3, col_wrap = 3, facet_kws=dict(sharex=False))
 #ax = sns.relplot(data = df_genres_top6, x = 'year', y = 'speechiness', col = 'genres', ci = False, kind = 'line',
-#                hue = 'genres', height = 3)
+#                hue = 'genres', height = 3, col_wrap = 3, facet_kws=dict(sharex=False))
 #ax = sns.relplot(data = df_genres_top6, x = 'year', y = 'acousticness', col = 'genres', ci = False, kind = 'line',
-#                hue = 'genres', height = 3)
-ax = sns.relplot(data = df_genres_top6, x = 'year', y = 'tempo', col = 'genres', ci = False, kind = 'line',
-                hue = 'genres', height = 4, col_wrap = 3, facet_kws=dict(sharex=False))
+#                hue = 'genres', height = 3, col_wrap = 3, facet_kws=dict(sharex=False))
+#ax = sns.relplot(data = df_genres_top6, x = 'year', y = 'tempo', col = 'genres', ci = False, kind = 'line',
+#                hue = 'genres', height = 3, col_wrap = 3, facet_kws=dict(sharex=False))
+ax.map(sns.regplot, 'year', 'energy', scatter = False, color = 'black', ci = False)
+ax.map(add_coefficients, 'year', 'energy')
+
 plt.show()
+# -
 
 # ## Is genre a good predictor for energy level of songs?
 
@@ -124,9 +138,9 @@ from sklearn.dummy import DummyRegressor
 #target = df_model['acousticness'].values
 #data = df_model['genres'].values
 
-#df_model = df_energy[(df_energy['tempo'].notna()) & (df_energy['genres'].notna())]
-#target = df_model['tempo'].values
-#data = df_model['genres'].values
+df_model = df_energy[(df_energy['tempo'].notna()) & (df_energy['genres'].notna())]
+target = df_model['tempo'].values
+data = df_model['genres'].values
 
 df_model = df_model[(df_model['genres'] == 'album rock') |
                     (df_model['genres'] == 'dance pop') |
@@ -150,7 +164,7 @@ mse = mean_squared_error(test_target, predicted)
 r2 = r2_score(test_target, predicted)
 
 df_plot = pd.DataFrame({'Actual': test_target, 'Predicted': predicted, 'Genre': test_data})
-sns.relplot(x='Actual', y='Predicted', hue='Genre', data=df_plot, alpha=0.5)
+sns.relplot(x='Actual', y='Predicted', data=df_plot, alpha=0.5)
 
 plt.xlabel("Actual values")
 plt.ylabel("Predicted values")
